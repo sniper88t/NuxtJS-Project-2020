@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BackupWhSchedulesK1Statement xmlns="http://www.irs.gov/efile"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ documentId="F9MnDy07" softwareId="59300538" softwareVersionNum="×" documentName="BackupWithholdingFromSchedulesK1Statement">
+    <BackupWhSchedulesK1StmtGrp>
+        <EIN>979184319</EIN>
+<!--        <MissingEINReasonCd>APPLD FOR</MissingEINReasonCd>-->
+        <BusinessName>
+            <BusinessNameLine1Txt>- &amp;&amp;&amp;</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>&amp;</BusinessNameLine2Txt>
+        </BusinessName>
+        <InCareOfNm>% '</InCareOfNm>
+<!--        <USAddress>
+            <AddressLine1Txt>0</AddressLine1Txt>
+            <AddressLine2Txt>5HcJ</AddressLine2Txt>
+            <CityNm>AM</CityNm>
+            <StateAbbreviationCd>AS</StateAbbreviationCd>
+            <ZIPCd>12572</ZIPCd>
+        </USAddress>-->
+        <ForeignAddress>
+            <AddressLine1Txt>L 5q</AddressLine1Txt>
+            <AddressLine2Txt>6</AddressLine2Txt>
+            <CityNm>zbXm</CityNm>
+            <ProvinceOrStateNm>ú</ProvinceOrStateNm>
+            <CountryCd>HU</CountryCd>
+            <ForeignPostalCd>í</ForeignPostalCd>
+        </ForeignAddress>
+        <SchK1CreditsCd>ü</SchK1CreditsCd>
+        <Amt>-1117139964</Amt>
+        <Desc>Ó</Desc>
+    </BackupWhSchedulesK1StmtGrp>
+    <BackupWhSchedulesK1StmtGrp>
+<!--        <EIN>661402641</EIN>-->
+        <MissingEINReasonCd>FOREIGNUS</MissingEINReasonCd>
+        <BusinessName>
+            <BusinessNameLine1Txt>'</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>E</BusinessNameLine2Txt>
+        </BusinessName>
+        <InCareOfNm>% #</InCareOfNm>
+        <USAddress>
+            <AddressLine1Txt>4C-</AddressLine1Txt>
+            <AddressLine2Txt>n</AddressLine2Txt>
+            <CityNm>awX U</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>41590</ZIPCd>
+        </USAddress>
+<!--        <ForeignAddress>
+            <AddressLine1Txt>9y-</AddressLine1Txt>
+            <AddressLine2Txt>o</AddressLine2Txt>
+            <CityNm>U</CityNm>
+            <ProvinceOrStateNm>ñ</ProvinceOrStateNm>
+            <CountryCd>CY</CountryCd>
+            <ForeignPostalCd>×é</ForeignPostalCd>
+        </ForeignAddress>-->
+        <SchK1CreditsCd>Invalid</SchK1CreditsCd>
+        <Amt>-2124934446</Amt>
+        <Desc>Ü</Desc>
+    </BackupWhSchedulesK1StmtGrp>
+    <TotalAmt>1804601105</TotalAmt>
+</BackupWhSchedulesK1Statement>

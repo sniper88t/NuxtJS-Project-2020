@@ -1,0 +1,28 @@
+{
+  "IRS461": {
+    "xmlns": "http://www.irs.gov/efile",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "documentId": "documentId1",
+    "softwareId": "00000000",
+    "softwareVersionNum": "softwareVersionNum1",
+    "documentName": "IRS461",
+    "referenceDocumentId": "referenceDocumentId1",
+    "referenceDocumentName": "BinaryAttachment GeneralDependencyMedium GeneralDependencySmall",
+    "WagesSalariesAndTipsAmt": "0",
+    "BusinessIncomeLossAmt": "0",
+    "CapitalGainLossAmt": "0",
+    "OtherGainLossAmt": "0",
+    "RentalRealEstateIncomeLossAmt": "0",
+    "NetFarmProfitLossAmt": "0",
+    "UnemploymentCompAmt": "50",
+    "OtherIncomeAmt": "0",
+    "TotalIncomeOrLossAmt": "0",
+    "IncomeOrGainAmt": "0",
+    "DeductionOrLossAmt": "0",
+    "TotalGainLossAmt": "0",
+    "AdjustedTotalGainLossAmt": "0",
+    "AdjustedTotalIncomeAmt": "0",
+    "FilingStatusThresholdCd": "510000",
+    "ExcessBusinessLossAmt": "0"
+  }
+}

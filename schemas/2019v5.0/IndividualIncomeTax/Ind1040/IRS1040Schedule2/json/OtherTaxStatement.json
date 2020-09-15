@@ -1,0 +1,20 @@
+{
+  "OtherTaxStatement": {
+    "xmlns": "http://www.irs.gov/efile",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "documentId": ":.L01-.",
+    "softwareId": "09019251",
+    "softwareVersionNum": "×",
+    "documentName": "OtherTaxStatement",
+    "OtherTaxStmt": [
+      {
+        "OtherTaxLitCd": "HSA",
+        "OtherTaxAmt": "-752619254"
+      },
+      {
+        "OtherTaxLitCd": "MSA",
+        "OtherTaxAmt": "-1426946974"
+      }
+    ]
+  }
+}

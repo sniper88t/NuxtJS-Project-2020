@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IRS1040ScheduleA xmlns="http://www.irs.gov/efile"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.irs.gov/efile file:/Users/rorisme/Developer/github/rdtechtax/schemas/mef-schema-1040/2019v5.0/IndividualIncomeTax/Ind1040/IRS1040ScheduleA/IRS1040ScheduleA.xsd" documentId="-d" softwareId="72856472" softwareVersionNum="é ×Ú" documentName="IRS1040ScheduleA" referenceDocumentId="iJ5so8vC.kQS-7sy.Oq .K..-.-md.o.--Gr4-4- --O4Yu77-R-zQD1.b .jvi.V5F5Yw.E4...7WU75s VnSy fC...5Tfx7loj NI7Uxf9.sE.pep7 5 PC.1-A8iRr..0c725.434m92-f28 B7c p7U9-:i.W.:.0 L-6CyN3uLwFZoQPXSkkFK--YK 5i-153N-Xnoy.SM3-9-p0S-xSD- qW-f6P2 5-F-.g:3Y.T"
+     referenceDocumentName="BinaryAttachment">
+    <MedicalAndDentalExpensesAmt>-1712891977</MedicalAndDentalExpensesAmt>
+    <TaxReturnAGIAmt>-678519433</TaxReturnAGIAmt>
+    <CalculatedMedicalAllowanceAmt>-1603155872</CalculatedMedicalAllowanceAmt>
+    <TotalMedicalAndDentalExpnssAmt>1652517275</TotalMedicalAndDentalExpnssAmt>
+    <StateAndLocalSalesTaxInd>X</StateAndLocalSalesTaxInd>
+    <StateAndLocalTaxAmt>1817490978</StateAndLocalTaxAmt>
+    <RealEstateTaxesAmt>-1406729573</RealEstateTaxesAmt>
+    <PersonalPropertyTaxesAmt>-1298730290</PersonalPropertyTaxesAmt>
+    <TotalStateAndLocalTaxAmt>-914343562</TotalStateAndLocalTaxAmt>
+    <StateAndLocalTaxLimitationAmt>1681840061</StateAndLocalTaxLimitationAmt>
+    <OtherTaxesAmt referenceDocumentId="-nse5Cg.7TVbA9--4:z9LM0s- .z-2Y4--S2-WItX0zC.L UX8-e:0p.e4 .AP3X3..XSg.-6" referenceDocumentName="OtherDeductibleTaxStatement">-1736571162</OtherTaxesAmt>
+    <TotalTaxesPaidAmt>-332126215</TotalTaxesPaidAmt>
+    <HomeMortgNotUsedInd>X</HomeMortgNotUsedInd>
+    <RptHomeMortgIntAndPointsAmt>-2046710179</RptHomeMortgIntAndPointsAmt>
+    <Form1098HomeMortgIntNotRptAmt referenceDocumentId=".-u7.-k4 1lpVkOuRo5wrMDft..j-l.Z8kXI P5Nk.89.8HqT4 K.U 2S5l-OVc-E:-Wa z-:KZiI4jzsT6O7g2EE-.d -1yY21s63kD:24XV .-R I-E.-8Op:03.f50-52-BpKC7FkH -uun1YcnAlLp9z50D"
+         referenceDocumentName="Form1098RecipientNameAndAddressStatement Form1098RecipientNameTINAndAddressStatement">956935269</Form1098HomeMortgIntNotRptAmt>
+    <Form1098PointsNotReportedAmt>588924697</Form1098PointsNotReportedAmt>
+    <MortgageInsurancePremiumsAmt>1644627572</MortgageInsurancePremiumsAmt>
+    <TotalHomeMortgIntAndPointsAmt>-1417129095</TotalHomeMortgIntAndPointsAmt>
+    <InvestmentInterestAmt referenceDocumentId="x- 8CwL 7" referenceDocumentName="IRS4952">-613807995</InvestmentInterestAmt>
+    <TotalInterestPaidAmt>-1682176913</TotalInterestPaidAmt>
+    <GiftsByCashOrCheckAmt>-108278292</GiftsByCashOrCheckAmt>
+    <OtherThanByCashOrCheckAmt referenceDocumentId="K :-EV5---.w6Y.Ig--eP-8p-3aJNL. xDeg--.6Lt5x06Q-333Z IQo75.Z7iA.6 .I.Jt:8..WFG3o7f .pVd93Q2r--A2mRTVik-gV- bS9Ys4c-e79 FY-e37NV.4yY"
+         referenceDocumentName="IRS8283">1904651623</OtherThanByCashOrCheckAmt>
+    <CarryoverFromPriorYearAmt>-1425217376</CarryoverFromPriorYearAmt>
+    <TotalCharitableContriAmt>-1030351504</TotalCharitableContriAmt>
+    <CalcAdjGroIncmMnsTotNetLossAmt referenceDocumentId=".1f-J2E.e-" referenceDocumentName="IRS4684">80374643</CalcAdjGroIncmMnsTotNetLossAmt>
+    <OtherMiscellaneousDedAmt referenceDocumentId="-1fARETVQ-0o0DzxL i:.6.cZ47P0We--6U.-NNl-wLCpK .ftj.-.S.m9---g .X.2gv. 5-C.t.QYu8fq.GDmqH-j.b2:.- - w--RF4kj7.MqSCiV6j-m32:-zXj.s- -4.lXlCC2l-.54zIwX-KGb-88-M"
+         referenceDocumentName="OtherMiscellaneousDeductionsStatement">-99860839</OtherMiscellaneousDedAmt>
+    <TotalItemizedDeductionsAmt>-456481629</TotalItemizedDeductionsAmt>
+    <ItmzdDedLessThanStdDedInd>X</ItmzdDedLessThanStdDedInd>
+</IRS1040ScheduleA>

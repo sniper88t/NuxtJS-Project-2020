@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OtherExpensesStatement xmlns="http://www.irs.gov/efile"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.irs.gov/efile file:/Users/rorisme/Developer/github/rdtechtax/schemas/mef-schema-1040/2019v5.0/IndividualIncomeTax/Ind1040/IRS1040ScheduleA/OtherExpensesStatement.xsd" documentId="-.Z3rjHEq5o8..zMV6Z6-Po." softwareId="07709817" softwareVersionNum="×" documentName="OtherExpensesStatement">
+    <OtherExpenseDetail>
+        <Desc>Üó §</Desc>
+        <Amt>1714528483</Amt>
+    </OtherExpenseDetail>
+    <OtherExpenseDetail>
+        <Desc>ó</Desc>
+        <Amt>-937595776</Amt>
+    </OtherExpenseDetail>
+</OtherExpensesStatement>

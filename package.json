@@ -1,0 +1,72 @@
+{
+  "name": "forms-web",
+  "version": "1.0.0",
+  "description": "ERO Cloud forms application",
+  "author": "Rijkaard Orismé <rijkaardorisme@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "test": "ava",
+    "test:unit": "cross-env TEST=unit ava ./test/specs/**/*",
+    "test:e2e": "cross-env TEST=e2e ava ./test/e2e/**/*",
+    "test:cy": "cypress run --record",
+    "test:percy": "percy exec -- cypress run --record"
+  },
+  "lint-staged": {
+    "*.{js,vue}": "npm run lint",
+    "*.{css,vue}": "stylelint"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/dotenv": "^1.4.0",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "debounce": "^1.2.0",
+    "element-ui": "^2.4.11",
+    "number-formatter": "^1.2.0",
+    "nuxt": "^2.0.0",
+    "path-to-regexp": "^6.1.0",
+    "v-mask": "^2.1.0",
+    "v-money": "github:nholden/v-money",
+    "vue-cookie": "^1.1.4",
+    "vue-form-json-schema": "^2.5.0",
+    "vue-jstree": "^2.1.6",
+    "vuex": "^3.2.0"
+  },
+  "devDependencies": {
+    "@ava/babel": "^1.0.0",
+    "@nuxtjs/eslint-config": "^2.0.0",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "@nuxtjs/stylelint-module": "^3.1.0",
+    "@percy/cypress": "^2.3.0",
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "ava": "^3.0.0",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "browser-env": "^3.2.5",
+    "cross-env": "^7.0.0",
+    "cypress": "^4.0.2",
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-nuxt": ">=0.4.2",
+    "eslint-plugin-prettier": "^3.1.2",
+    "husky": "^4.0.0",
+    "lint-staged": "^10.0.0",
+    "node-sass": "^4.14.0",
+    "prettier": "^1.19.1",
+    "require-extension-hooks": "^0.3.3",
+    "require-extension-hooks-babel": "^1.0.0",
+    "require-extension-hooks-vue": "^2.0.0",
+    "sass-loader": "^8.0.2",
+    "stylelint": "^10.1.0",
+    "svg-sprite-loader": "^4.2.5"
+  }
+}

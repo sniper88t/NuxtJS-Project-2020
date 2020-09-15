@@ -1,0 +1,105 @@
+{
+  "IRS1040Schedule1": {
+    "xmlns": "http://www.irs.gov/efile",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "documentId": "o89264nl.NL-.-Y.3S6NC-...sZ2",
+    "softwareId": "12684906",
+    "softwareVersionNum": "ñ",
+    "documentName": "IRS1040Schedule1",
+    "referenceDocumentId": "9bo.7L..-.0P- 0UUP2Z6iQnSN9.22. ZZbC2D.:6.p.sDo.W-40.09. e0:H76:mo2:k2I 90p5z3l.2JhvR5AV 7E.T:f6J-b 3..nn5-xJ-lR-k2Zm.7fFoQ-- NH-D-8L.2D-X4999-xx 9276.Bg9-.mU:4Ymg-n24Ex",
+    "referenceDocumentName": "BinaryAttachment GeneralDependencyMedium GeneralDependencySmall",
+    "VirtualCurAcquiredDurTYInd": "true",
+    "StateLocalIncomeTaxRefundAmt": "784052855",
+    "AlimonyReceivedAmt": "1076813128",
+    "DivorceOrSeparationAgreementDt": "2020-04-18Z",
+    "BusinessIncomeLossAmt": {
+      "text": "1543588997",
+      "referenceDocumentId": ".9UlHW7T.0 95kjKfX-fMc8jO61dPb5: 1-Jz--Mc.sHe-3-1-2zztU 3kS6u9m7M5.k. .2. g01Fx.C.M-.-N.1oT50 H.p5.0RIQ5 -B2w-XJA8mU.Cz.3.dZh.--v2c :i.24l0-V6-.MuB MSgc ..z.TAY-S3b4o.3a7VRMvqz.",
+      "referenceDocumentName": "IRS1040ScheduleC"
+    },
+    "OtherGainLossAmt": {
+      "text": "925817307",
+      "form4684Cd": "F4684",
+      "referenceDocumentId": "UX6- 6dk E4:4T.ei-6.qyIRyW1-J27j.L. L.9FNB-w.2pB-6--5OvN-2i- e.uoWJ-y.q37.E:mZ-X5-qj 56-.B -y-7h-i Z660-75.3Mozj c X5C-.Tbb.vyCjFX..s6.-H0.i0 Oh-7.1bdOf-b6C2:31jf.x cwZkqJU.Y--4.76eQHu k-0i3-.1-JGj.BS.p7cnS9A- 1iEC3.m-98J-A...-H0nx18",
+      "referenceDocumentName": "IRS4797"
+    },
+    "RentalRealEstateIncomeLossAmt": {
+      "text": "733377089",
+      "referenceDocumentId": "dw0 K.zk.-V9u. -to-.-ZTxR-c9.N-.--7MG-: z--483o55z-.F hrTSq15djIo- .p0imfBL-f:5T.Vjnwm7.8QR 8 506SV.b4NieiK..-On.h-I.y7 pVSPDFQ:59p23 86Dg.B..2:wpmIYdAL:X2 anm4hwSr4.jG-7-6S. -KB-iM7aV..",
+      "referenceDocumentName": "IRS1040ScheduleE"
+    },
+    "NetFarmProfitLossAmt": {
+      "text": "1772787757",
+      "referenceDocumentId": "HN-4KA.kX-ZO 5yH7-:WpQU--..ma24f:..:16. -s-0 .sy-.1Si4paI 4.03obAj8--4 tk.QdJi-4A.7h6c.11jsz74-.UD9 ..93:-0.SvG-yKfnVT-DCy.7q 7NGafw1-Ce. C35-Ti-d.LXH.e87-Za.J8K397P-. wA 5q1.-2148RU6-m6F2T-.4 -m.624vF4W.-.i-go3TwMthMo :Wb48v9.6d-mhrHr.",
+      "referenceDocumentName": "IRS1040ScheduleF"
+    },
+    "UnemploymentCompAmt": {
+      "text": "615502337",
+      "repaymentCd": "REPAID",
+      "repaymentAmt": "-627421399"
+    },
+    "TotalOtherIncomeAmt": {
+      "text": "-506770096",
+      "referenceDocumentId": "d.1o..8.-:.8.W",
+      "referenceDocumentName": "OtherIncomeTypeStatement"
+    },
+    "ProtectiveSec108iELCRecordInd": "X",
+    "TotalAdditionalIncomeAmt": "-598721835",
+    "EducatorExpensesAmt": "-1402658416",
+    "BusExpnsReservistsAndOthersAmt": {
+      "text": "-12013438",
+      "referenceDocumentId": "s1-.7.xU -Xs -WU-1U-.iMHc l4.-n20-.JDdq-:1.5.-x MiWM7.crhU-. o.:Ym.G6Us.jU.dB1 ..i7NLE44uR-46pZ vC.:6b3QH8 4v-iWUT5nKo-cUJ.ci8z uxBh--.6:.537-KZs:16-j-QGuvMm",
+      "referenceDocumentName": "IRS2106"
+    },
+    "HealthSavingsAccountDedAmt": {
+      "text": "-1954435335",
+      "referenceDocumentId": "-I.g. 0-U",
+      "referenceDocumentName": "IRS8889"
+    },
+    "MovingExpenseAmt": {
+      "text": "501653628",
+      "referenceDocumentId": "z5L-l9-D-60 6 -.R2-4Jbl-2.D8-73-...3 bJ:L:ML.l-lq.2-d.Za26oj7rzL4:Q n...z445LHIzV6b.--9-r TjefX.4hW.D6Vw",
+      "referenceDocumentName": "IRS3903"
+    },
+    "MovingExpenseCd": "STORAGE",
+    "DeductibleSelfEmploymentTaxAmt": {
+      "text": "1782421182",
+      "referenceDocumentId": "Q0t9.3O86u3-n643.yYkN.f2-diZB Uw5wiKF. .2s.P-uW.S- -WHpSohN-t v1kVVub7m.hlgdD-:f..A.Azxk--x z",
+      "referenceDocumentName": "IRS1040ScheduleSE"
+    },
+    "SelfEmpldSepSimpleQlfyPlansAmt": "1969033312",
+    "SelfEmpldHealthInsDedAmt": "1321841461",
+    "PnltyOnErlyWthdrwOfSavingsAmt": "-2096024643",
+    "AlimonyAmountGrp": [
+      {
+        "AlimonyPaidAmt": "1367751448",
+        "RecipientSSN": "815417362",
+        "DivorceOrSeparationAgreementDt": "2022-01-20"
+      },
+      {
+        "AlimonyPaidAmt": "1602352084",
+        "RecipientSSN": "592773003",
+        "DivorceOrSeparationAgreementDt": "2020-11-12"
+      }
+    ],
+    "TotalAlimonyPaidAmt": "803057228",
+    "IRADeductionAmt": "1900023078",
+    "IRADeductionCd": "D",
+    "StudentLoanInterestDedAmt": "87009333",
+    "TuitionAndFeesDedAmt": {
+      "text": "163870270",
+      "referenceDocumentId": "46u9-74J2wshKu1P9A h-p968S mD-A-Pfe-t:B. .als.Y-n..LKGf:v",
+      "referenceDocumentName": "IRS8917"
+    },
+    "OtherAdjustmentsTotalAmt": {
+      "text": "1154690563",
+      "referenceDocumentId": "-N 7Qji8 .O22.O:8wpm9bx.4rmt6 -G3M40P.-7IlL8.YUm..s -LsLm2Zq:1-T--OA GVq-z--Fd-Qgz.QMo0uU6--.--0g.- -83b86.-1.A-..AmfVK:p-.a OU..:IQPLp0Qb.-2D.F6GQe-P1.. 3U4D1LjneQ9F.H1472fRpAcZ.:mt4e -0i8P:4h-U:-DwK.2Gz2zi.:j ...pTF.4 - .b8gZ3-:qHUa5CJIE .3n.-.F- Z-",
+      "referenceDocumentName": "IRS8903 DomesticProductionActivitiesStatement"
+    },
+    "TotalAdjustmentsAmt": {
+      "text": "-2076713847",
+      "referenceDocumentId": "Vbsi:6h5c0H:A- -.7.Hk9:gF4Sc -eu1-R62Zn7.sVU.q. a..R.4.w --.N.6-.6",
+      "referenceDocumentName": "OtherAdjustmentsStatement"
+    }
+  }
+}

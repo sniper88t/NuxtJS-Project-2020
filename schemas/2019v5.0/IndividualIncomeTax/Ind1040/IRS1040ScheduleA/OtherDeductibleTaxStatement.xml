@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OtherDeductibleTaxStmt xmlns="http://www.irs.gov/efile"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.irs.gov/efile file:/Users/rorisme/Developer/github/rdtechtax/schemas/mef-schema-1040/2019v5.0/IndividualIncomeTax/Ind1040/IRS1040ScheduleA/OtherDeductibleTaxStatement.xsd" documentId="04eU8YP46C:n-G.pob2.E.v" softwareId="30765096" softwareVersionNum="üéÁ í" documentName="OtherDeductibleTaxStatement">
+    <OtherDeductibleTaxGrp>
+        <Desc>Á</Desc>
+        <Amt>-1921295417</Amt>
+    </OtherDeductibleTaxGrp>
+    <OtherDeductibleTaxGrp>
+        <Desc>ü</Desc>
+        <Amt>-2006823058</Amt>
+    </OtherDeductibleTaxGrp>
+</OtherDeductibleTaxStmt>

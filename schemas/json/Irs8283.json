@@ -1,0 +1,263 @@
+{
+  "IRS8283": {
+    "@xmlns": "http://www.irs.gov/efile",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@documentId": "documentId1",
+    "@softwareId": "00000000",
+    "@softwareVersionNum": "softwareVersionNum1",
+    "@documentName": "IRS8283",
+    "@referenceDocumentId": "referenceDocumentId1",
+    "@referenceDocumentName": "BinaryAttachment DeductionsTakenUnderSection170Stmt DoneesSignatureUnavailableStmt",
+    "InformationOnDonatedProperty": [
+      {
+        "@referenceDocumentId": "referenceDocumentId3",
+        "@referenceDocumentName": "ContemporaneousWrittenAcknowledgmentStatement ContributionsOfMotorVehiclesBoatsAndAirplanesStatement",
+        "PropertyId": "A",
+        "DoneeOrganizationName": {
+          "BusinessNameLine1Txt": "BusinessNameLine1Txt0",
+          "BusinessNameLine2Txt": "BusinessNameLine2Txt0"
+        },
+        "DoneeOrganizationFrgnAddress": {
+          "AddressLine1Txt": "AddressLine1Txt1",
+          "AddressLine2Txt": "AddressLine2Txt1",
+          "CityNm": "A",
+          "ProvinceOrStateNm": "ProvinceOrStateNm",
+          "CountryCd": "AF",
+          "ForeignPostalCd": "ForeignPostalCd0"
+        },
+        "DonatedPropertyVehicleInd": "X",
+        "VIN": "VIN0",
+        "DonatedPropertyDesc": "DonatedPropertyDesc0",
+        "DonorLineDetail": {
+          "@scheduleK1Cd": "From Schedule K-1 (Form 1065 or 1120S)",
+          "ContributionDt": "2006-05-04",
+          "DonorAcquiredDt": {
+            "#text": "1000-01",
+            "@referenceDocumentId": "referenceDocumentId5",
+            "@referenceDocumentName": "ReasonableCauseStatement"
+          },
+          "DonorAcquisitionDesc": "DonorAcquisitionDesc",
+          "DonorCostOrAdjustedBasisAmt": {
+            "#text": "0",
+            "@referenceDocumentId": "referenceDocumentId7",
+            "@referenceDocumentName": "ReasonableCauseStatement"
+          }
+        },
+        "FairMarketValueAmt": {
+          "#text": "0",
+          "@referenceDocumentId": "referenceDocumentId9",
+          "@referenceDocumentName": "FairMarketValueStatement QualifiedConservationContributionStmt"
+        },
+        "FairMarketValueMethodDesc": "FairMarketValueMethodDesc",
+        "TotalDeductionClaimedThisTYAmt": "0",
+        "TotalDeductionClaimedPrTYAmt": "0",
+        "OrganizationNm": {
+          "BusinessNameLine1Txt": "BusinessNameLine1Txt1",
+          "BusinessNameLine2Txt": "BusinessNameLine2Txt1"
+        },
+        "OrganizatonForeignAddress": {
+          "AddressLine1Txt": "AddressLine1Txt3",
+          "AddressLine2Txt": "AddressLine2Txt3",
+          "CityNm": "A",
+          "ProvinceOrStateNm": "ProvinceOrStateNm",
+          "CountryCd": "AF",
+          "ForeignPostalCd": "ForeignPostalCd1"
+        },
+        "TangiblePropertyLocationTxt": "TangiblePropertyLocationTxt0",
+        "PersonPossessingPropBusName": {
+          "BusinessNameLine1Txt": "BusinessNameLine1Txt2",
+          "BusinessNameLine2Txt": "BusinessNameLine2Txt2"
+        },
+        "DonatedPropertyRestrictionInd": {
+          "#text": "false",
+          "@referenceDocumentId": "referenceDocumentId11",
+          "@referenceDocumentName": "RestrictedUseStatement"
+        },
+        "DonatedPropertyRightsGivenInd": {
+          "#text": "false",
+          "@referenceDocumentId": "referenceDocumentId13",
+          "@referenceDocumentName": "RestrictedUseStatement"
+        },
+        "DonatedPropertyLimitingRstrInd": {
+          "#text": "false",
+          "@referenceDocumentId": "referenceDocumentId15",
+          "@referenceDocumentName": "RestrictedUseStatement"
+        }
+      },
+      {
+        "@referenceDocumentId": "referenceDocumentId17",
+        "@referenceDocumentName": "ContemporaneousWrittenAcknowledgmentStatement ContributionsOfMotorVehiclesBoatsAndAirplanesStatement",
+        "PropertyId": "A",
+        "DoneeOrganizationName": {
+          "BusinessNameLine1Txt": "BusinessNameLine1Txt3",
+          "BusinessNameLine2Txt": "BusinessNameLine2Txt3"
+        },
+        "DoneeOrganizationFrgnAddress": {
+          "AddressLine1Txt": "AddressLine1Txt5",
+          "AddressLine2Txt": "AddressLine2Txt5",
+          "CityNm": "A",
+          "ProvinceOrStateNm": "ProvinceOrStateNm",
+          "CountryCd": "AF",
+          "ForeignPostalCd": "ForeignPostalCd2"
+        },
+        "DonatedPropertyVehicleInd": "X",
+        "VIN": "VIN1",
+        "DonatedPropertyDesc": "DonatedPropertyDesc1",
+        "DonorLineDetail": {
+          "@scheduleK1Cd": "From Schedule K-1 (Form 1065 or 1120S)",
+          "ContributionDt": "2006-05-04",
+          "DonorAcquiredDt": {
+            "#text": "1000-01",
+            "@referenceDocumentId": "referenceDocumentId19",
+            "@referenceDocumentName": "ReasonableCauseStatement"
+          },
+          "DonorAcquisitionDesc": "DonorAcquisitionDesc",
+          "DonorCostOrAdjustedBasisAmt": {
+            "#text": "0",
+            "@referenceDocumentId": "referenceDocumentId21",
+            "@referenceDocumentName": "ReasonableCauseStatement"
+          }
+        },
+        "FairMarketValueAmt": {
+          "#text": "0",
+          "@referenceDocumentId": "referenceDocumentId23",
+          "@referenceDocumentName": "FairMarketValueStatement QualifiedConservationContributionStmt"
+        },
+        "FairMarketValueMethodDesc": "FairMarketValueMethodDesc",
+        "TotalDeductionClaimedThisTYAmt": "0",
+        "TotalDeductionClaimedPrTYAmt": "0",
+        "OrganizationNm": {
+          "BusinessNameLine1Txt": "BusinessNameLine1Txt4",
+          "BusinessNameLine2Txt": "BusinessNameLine2Txt4"
+        },
+        "OrganizatonUSAddress": {
+          "AddressLine1Txt": "AddressLine1Txt6",
+          "AddressLine2Txt": "AddressLine2Txt6",
+          "CityNm": "A",
+          "StateAbbreviationCd": "AL",
+          "ZIPCd": "00000"
+        },
+        "TangiblePropertyLocationTxt": "TangiblePropertyLocationTxt1",
+        "PersonPossessingPropPersonNm": "A#",
+        "DonatedPropertyRestrictionInd": {
+          "#text": "false",
+          "@referenceDocumentId": "referenceDocumentId25",
+          "@referenceDocumentName": "RestrictedUseStatement"
+        },
+        "DonatedPropertyRightsGivenInd": {
+          "#text": "false",
+          "@referenceDocumentId": "referenceDocumentId27",
+          "@referenceDocumentName": "RestrictedUseStatement"
+        },
+        "DonatedPropertyLimitingRstrInd": {
+          "#text": "false",
+          "@referenceDocumentId": "referenceDocumentId29",
+          "@referenceDocumentName": "RestrictedUseStatement"
+        }
+      }
+    ],
+    "ArtWorthAtLeast20000DollarsInd": "X",
+    "QualifiedConservationContriInd": "X",
+    "EquipmentInd": "X",
+    "ArtWorthLssThan20000DollarsInd": "X",
+    "OtherRealEstateInd": "X",
+    "SecuritiesInd": "X",
+    "CollectiblesInd": "X",
+    "IntellectualPropertyInd": "X",
+    "VehicleInd": "X",
+    "OtherInd": "X",
+    "PropertyInformation": [
+      {
+        "@referenceDocumentId": "referenceDocumentId31",
+        "@referenceDocumentName": "ContemporaneousWrittenAcknowledgmentStatement ContributionsOfMotorVehiclesBoatsAndAirplanesStatement",
+        "PropertyId": "A",
+        "DonatedPropertyDesc": "DonatedPropertyDesc2",
+        "DonatedPropertyPhysicalCondTxt": "DonatedPropertyPhysicalCondTxt0",
+        "AppraisedFairMarketValueAmt": "0",
+        "DonorAcquiredDt": {
+          "#text": "1000-01",
+          "@referenceDocumentId": "referenceDocumentId33",
+          "@referenceDocumentName": "ReasonableCauseStatement"
+        },
+        "DonorAcquisitionDesc": {
+          "#text": "DonorAcquisitionDesc",
+          "@referenceDocumentId": "referenceDocumentId35",
+          "@referenceDocumentName": "ReasonableCauseStatement"
+        },
+        "DonorCostOrAdjustedBasisAmt": {
+          "#text": "0",
+          "@referenceDocumentId": "referenceDocumentId37",
+          "@referenceDocumentName": "ReasonableCauseStatement"
+        },
+        "BargainSalesReceivedAmt": "0",
+        "DeductionClaimedAmt": "0",
+        "ContributionDt": "2006-05-04"
+      },
+      {
+        "@referenceDocumentId": "referenceDocumentId39",
+        "@referenceDocumentName": "ContemporaneousWrittenAcknowledgmentStatement ContributionsOfMotorVehiclesBoatsAndAirplanesStatement",
+        "PropertyId": "A",
+        "DonatedPropertyDesc": "DonatedPropertyDesc3",
+        "DonatedPropertyPhysicalCondTxt": "DonatedPropertyPhysicalCondTxt1",
+        "AppraisedFairMarketValueAmt": "0",
+        "DonorAcquiredDt": {
+          "#text": "1000-01",
+          "@referenceDocumentId": "referenceDocumentId41",
+          "@referenceDocumentName": "ReasonableCauseStatement"
+        },
+        "DonorAcquisitionDesc": {
+          "#text": "DonorAcquisitionDesc",
+          "@referenceDocumentId": "referenceDocumentId43",
+          "@referenceDocumentName": "ReasonableCauseStatement"
+        },
+        "DonorCostOrAdjustedBasisAmt": {
+          "#text": "0",
+          "@referenceDocumentId": "referenceDocumentId45",
+          "@referenceDocumentName": "ReasonableCauseStatement"
+        },
+        "BargainSalesReceivedAmt": "0",
+        "DeductionClaimedAmt": "0",
+        "ContributionDt": "2006-05-04"
+      }
+    ],
+    "PropertyIdLetterAndDescGrp": [
+      {
+        "PropertyId": "A",
+        "DonatedPropertyDesc": "DonatedPropertyDesc4"
+      },
+      {
+        "PropertyId": "A",
+        "DonatedPropertyDesc": "DonatedPropertyDesc5"
+      }
+    ],
+    "AppraiserName": {
+      "PersonFirstNm": "-",
+      "PersonLastNm": "-"
+    },
+    "AppraiserTitleTxt": "AppraiserTitleTxt0",
+    "AppraiserSignedDt": "2006-05-04",
+    "AppraiserForeignAddress": {
+      "AddressLine1Txt": "AddressLine1Txt9",
+      "AddressLine2Txt": "AddressLine2Txt9",
+      "CityNm": "A",
+      "ProvinceOrStateNm": "ProvinceOrStateNm",
+      "CountryCd": "AF",
+      "ForeignPostalCd": "ForeignPostalCd4"
+    },
+    "AppraiserIdentifyingNum": "AppraiserIdenti",
+    "ReceivedDt": "2006-05-04",
+    "UsePropertyForUnrelatedUseInd": "false",
+    "DoneeName": {
+      "BusinessNameLine1Txt": "BusinessNameLine1Txt6",
+      "BusinessNameLine2Txt": "BusinessNameLine2Txt6"
+    },
+    "DoneeEIN": "000000000",
+    "DoneeUSAddress": {
+      "AddressLine1Txt": "AddressLine1Txt10",
+      "AddressLine2Txt": "AddressLine2Txt10",
+      "CityNm": "A",
+      "StateAbbreviationCd": "AL",
+      "ZIPCd": "00000"
+    }
+  }
+}

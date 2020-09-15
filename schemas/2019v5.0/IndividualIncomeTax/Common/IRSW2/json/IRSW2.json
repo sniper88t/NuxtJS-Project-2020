@@ -1,0 +1,120 @@
+{
+  "IRSW2": {
+    "xmlns": "http://www.irs.gov/efile",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "documentId": "documentId1",
+    "softwareId": "00000000",
+    "softwareVersionNum": "softwareVersionNum1",
+    "documentName": "IRSW2",
+    "CorrectedW2Ind": "X",
+    "EmployeeSSN": "000000000",
+    "EmployerEIN": "000000000",
+    "EmployerNameControlTxt": "-",
+    "AgentForEmployerInd": "X",
+    "EmployerName": {
+      "BusinessNameLine1Txt": "BusinessNameLine1Txt0",
+      "BusinessNameLine2Txt": "BusinessNameLine2Txt0"
+    },
+    "EmployerUSAddress": {
+      "AddressLine1Txt": "AddressLine1Txt3",
+      "AddressLine2Txt": "AddressLine2Txt3",
+      "CityNm": "A",
+      "StateAbbreviationCd": "ProvinceOrStateNm",
+      "ZIPCd": "AF"
+    },
+    "EmployerForeignAddress": {
+      "AddressLine1Txt": "AddressLine1Txt1",
+      "AddressLine2Txt": "AddressLine2Txt1",
+      "CityNm": "A",
+      "ProvinceOrStateNm": "ProvinceOrStateNm",
+      "CountryCd": "AF",
+      "ForeignPostalCd": "ForeignPostalCd0"
+    },
+    "ControlNum": "ControlNum0",
+    "EmployeeNm": "EmployeeNm0",
+    "EmployeeUSAddress": {
+      "AddressLine1Txt": "AddressLine1Txt3",
+      "AddressLine2Txt": "AddressLine2Txt3",
+      "CityNm": "A",
+      "StateAbbreviationCd": "ProvinceOrStateNm",
+      "ZIPCd": "AF"
+    },
+    "EmployeeForeignAddress": {
+      "AddressLine1Txt": "AddressLine1Txt3",
+      "AddressLine2Txt": "AddressLine2Txt3",
+      "CityNm": "A",
+      "ProvinceOrStateNm": "ProvinceOrStateNm",
+      "CountryCd": "AF",
+      "ForeignPostalCd": "ForeignPostalCd1"
+    },
+    "WagesAmt": "50",
+    "WithholdingAmt": "0",
+    "SocialSecurityWagesAmt": "0",
+    "SocialSecurityTaxAmt": "0",
+    "MedicareWagesAndTipsAmt": "0",
+    "MedicareTaxWithheldAmt": "0",
+    "SocialSecurityTipsAmt": "0",
+    "AllocatedTipsAmt": "0",
+    "DependentCareBenefitsAmt": "0",
+    "NonqualifiedPlansAmt": "0",
+    "EmployersUseGrp": [
+      {
+        "EmployersUseCd": "A",
+        "PriorUSERRAContributionYr": "0",
+        "EmployersUseAmt": "50"
+      },
+      {
+        "EmployersUseCd": "A",
+        "PriorUSERRAContributionYr": "0",
+        "EmployersUseAmt": "50"
+      }
+    ],
+    "StatutoryEmployeeInd": "X",
+    "RetirementPlanInd": "X",
+    "ThirdPartySickPayInd": "X",
+    "OtherDeductionsBenefitsGrp": [
+      {
+        "Desc": "Desc0",
+        "Amt": "0"
+      },
+      {
+        "Desc": "Desc1",
+        "Amt": "0"
+      }
+    ],
+    "W2StateLocalTaxGrp": [
+      {
+        "W2StateTaxGrp": {
+          "StateAbbreviationCd": "AL",
+          "EmployerStateIdNum": "EmployerStateIdN",
+          "StateWagesAmt": "0",
+          "StateIncomeTaxAmt": "0",
+          "W2LocalTaxGrp": {
+            "LocalWagesAndTipsAmt": "0",
+            "LocalIncomeTaxAmt": "0",
+            "LocalityNm": "LocalityNm0"
+          }
+        }
+      },
+      {
+        "W2StateTaxGrp": {
+          "StateAbbreviationCd": "AL",
+          "EmployerStateIdNum": "EmployerStateIdN",
+          "StateWagesAmt": "0",
+          "StateIncomeTaxAmt": "0",
+          "W2LocalTaxGrp": {
+            "LocalWagesAndTipsAmt": "0",
+            "LocalIncomeTaxAmt": "0",
+            "LocalityNm": "LocalityNm1"
+          }
+        }
+      }
+    ],
+    "StandardOrNonStandardCd": "N",
+    "W2SecurityInformation": {
+      "W2DownloadCd": "0",
+      "W2DownloadResultCd": "0",
+      "W2DownloadFailedAttemptCnt": "500"
+    }
+  }
+}

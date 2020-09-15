@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OtherMiscDeductionsStmt xmlns="http://www.irs.gov/efile"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.irs.gov/efile file:/Users/rorisme/Developer/github/rdtechtax/schemas/mef-schema-1040/2019v5.0/IndividualIncomeTax/Ind1040/IRS1040ScheduleA/OtherMiscellaneousDeductionsStatement.xsd" documentId="H-y87F9." softwareId="17980693" softwareVersionNum="§ÍÑ" documentName="OtherMiscellaneousDeductionsStatement">
+    <MiscellaneousDeductionDetail>
+        <MiscellaneousDeductionTypeDesc>AMORTIZABLE BOND PREMIUMS</MiscellaneousDeductionTypeDesc>
+        <MiscellaneousDeductionAmt>1307227010</MiscellaneousDeductionAmt>
+    </MiscellaneousDeductionDetail>
+    <MiscellaneousDeductionDetail>
+        <MiscellaneousDeductionTypeDesc>GAMBLING LOSSES</MiscellaneousDeductionTypeDesc>
+        <MiscellaneousDeductionAmt>-1169992107</MiscellaneousDeductionAmt>
+    </MiscellaneousDeductionDetail>
+</OtherMiscDeductionsStmt>

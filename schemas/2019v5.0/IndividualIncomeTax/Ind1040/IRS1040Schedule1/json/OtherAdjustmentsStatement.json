@@ -1,0 +1,20 @@
+{
+  "OtherAdjustmentsStatement": {
+    "xmlns": "http://www.irs.gov/efile",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "documentId": "3-3J8JA",
+    "softwareId": "25587884",
+    "softwareVersionNum": "Ñ",
+    "documentName": "OtherAdjustmentsStatement",
+    "OtherAdjustmentsStmt": [
+      {
+        "OtherAdjustmentsCodeTxt": "á",
+        "OtherAdjustmentsAmt": "883477252"
+      },
+      {
+        "OtherAdjustmentsCodeTxt": "Á",
+        "OtherAdjustmentsAmt": "1037301895"
+      }
+    ]
+  }
+}

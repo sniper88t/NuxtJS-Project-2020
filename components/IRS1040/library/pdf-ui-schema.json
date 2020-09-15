@@ -1,0 +1,456 @@
+{
+  "ReturnHeader": {
+    "binaryAttachmentCnt": "1336493677",
+    "ReturnTs": "2022-01-19T18:19:16Z",
+    "TaxYr": "1132",
+    "TaxPeriodBeginDt": "2021-02-01",
+    "TaxPeriodEndDt": "2022-02-09Z",
+    "ImperfectReturnInd": "X",
+    "InactiveITINReturnInd": "X",
+    "ConsortiumReturnCd": "English Free-File",
+    "AffordableFilingCd": "Partners Page English",
+    "ISPNum": "EE42DI",
+    "SoftwareId": "42494485",
+    "SoftwareVersionNum": "ñÓ ó×",
+    "OriginatorGrp": {
+      "EFIN": "492760",
+      "OriginatorTypeCd": "ReportingAgent",
+      "PractitionerPINGrp": {
+        "EFIN": "784753",
+        "PIN": "86525"
+      }
+    },
+    "SelfSelectPINGrp": {
+      "PrimaryBirthDt": "2020-09-22Z",
+      "SpouseBirthDt": "2021-06-04Z",
+      "PrimaryPriorYearAGIAmt": "811189213",
+      "SpousePriorYearAGIAmt": "2105441895",
+      "PrimaryPriorYearPIN": "52537",
+      "SpousePriorYearPIN": "56456"
+    },
+    "IdentityProtectionPIN": "Invalid",
+    "SpouseIdentityProtectionPIN": "u",
+    "PINTypeCd": "Self-Select On-Line",
+    "JuratDisclosureCd": "Practitioner PIN",
+    "PrimaryPINEnteredByCd": "Taxpayer",
+    "SpousePINEnteredByCd": "ERO",
+    "PrimarySignaturePIN": "98682",
+    "SpouseSignaturePIN": "12412",
+    "PrimarySignatureDt": "2020-09-01",
+    "SpouseSignatureDt": "2021-06-11Z",
+    "ReturnTypeCd": "1040",
+    "Filer": {
+      "PrimarySSN": "418709889",
+      "SpouseSSN": "050645519",
+      "NameLine1Txt": "f W-x&",
+      "InCareOfNm": "% &b &",
+      "PrimaryNameControlTxt": "H  -",
+      "SpouseNameControlTxt": "J--",
+      "USAddress": {
+        "AddressLine1Txt": "H",
+        "AddressLine2Txt": "E 3",
+        "CityNm": "x",
+        "StateAbbreviationCd": "PW",
+        "ZIPCd": "91053"
+      }
+    },
+    "PaidPreparerInformationGrp": {
+      "SignatureDt": "2020-03-28",
+      "ThirdPartyDesigneeInd": "X",
+      "SelfEmployedInd": "X",
+      "PreparerSSN": "626514367",
+      "PreparerFirmEIN": "426996688",
+      "PreparerPersonNm": "-",
+      "PreparerFirmName": {
+        "BusinessNameLine1Txt": "(",
+        "BusinessNameLine2Txt": "'&"
+      },
+      "PreparerForeignAddress": {
+        "AddressLine1Txt": "wJ4 5",
+        "AddressLine2Txt": "2",
+        "CityNm": "K v MR",
+        "ProvinceOrStateNm": "á Ó",
+        "CountryCd": "FO",
+        "ForeignPostalCd": "£ ñü"
+      },
+      "ForeignPhoneNum": "880810556225754551788770",
+      "EmailAddressTxt": "v@h"
+    },
+    "OnlineFilerInformation": {
+      "RoutingTransitNum": "245230023",
+      "DepositorAccountNum": "Z4"
+    },
+    "AdditionalFilerInformation": {
+      "AtSubmissionCreationGrp": {
+        "RoutingTransitNum": "031198712",
+        "DepositorAccountNum": "0p",
+        "BankAccountDataCapturedTs": "2020-08-10T18:19:16",
+        "CellPhoneNum": "0199446074",
+        "EmailAddressTxt": "s@e"
+      },
+      "PrimDrvrLcnsOrStateIssdIdGrp": {
+        "DrvrLcnsOrStateIssdIdNum": "ñ",
+        "DrvrLcnsOrStateIssdIdStCd": "DE",
+        "DrvrLcnsOrStateIssdIdExprDt": "2021-06-11Z",
+        "DrvrLcnsOrStateIssdIdIssDt": "2021-01-12"
+      },
+      "SpsDrvrLcnsOrStateIssdIdGrp": {
+        "DrvrLcnsOrStateIssdIdNum": "é Ú£§",
+        "DrvrLcnsOrStateIssdIdStCd": "SC",
+        "DrvrLcnsOrStateIssdIdExprDt": "2020-08-17Z",
+        "DrvrLcnsOrStateIssdIdIssDt": "2021-03-03"
+      },
+      "AtSubmissionFilingGrp": {
+        "RefundDisbursementCd": [
+          "5",
+          "6"
+        ],
+        "RoutingTransitNum": "104244903",
+        "DepositorAccountNum": "-",
+        "RefundProductElectionInd": "1",
+        "RefundProductCIPCd": "4",
+        "ForeignCellPhoneNum": "51",
+        "EmailAddressTxt": "a@zif"
+      },
+      "TrustedCustomerGrp": {
+        "TrustedCustomerCd": "1",
+        "OOBSecurityVerificationCd": "06",
+        "LastSubmissionRqrOOBCd": "1",
+        "AuthenticationSummaryCd": [
+          "IAL1",
+          "FAL2"
+        ],
+        "PaymentDeclinedReasonCd": "1",
+        "ProfileUserNameChangeInd": "X",
+        "ProfilePasswordChangeInd": "X",
+        "ProfileEmailAddressChangeInd": "X",
+        "ProfileCellPhoneNumChangeInd": "X"
+      }
+    },
+    "FilingSecurityInformation": {
+      "AtSubmissionCreationGrp": {
+        "IPAddress": {
+          "IPv4AddressTxt": "3.4.700.30"
+        },
+        "IPPortNum": "",
+        "DeviceId": "9EEAA3D4398D4BFAEC295D3AA87FBCB9598FDDB0",
+        "DeviceTypeCd": "1",
+        "UserAgentTxt": "ÜÍ Ñ×",
+        "BrowserLanguageTxt": "Ñ§ÑÜ",
+        "PlatformTxt": "ñ",
+        "TimeZoneOffsetNum": "-495",
+        "SystemTs": "2020-12-09T18:19:16Z"
+      },
+      "AtSubmissionFilingGrp": {
+        "IPAddress": {
+          "IPv6AddressTxt": "772F83CBFFC0E37BF94CC2DEEB26F265DBCC2"
+        },
+        "FinalIPPortNum": "",
+        "DeviceId": "ADECBA691DCEEA8652F09A0DC4328EFD71DC85C9",
+        "DeviceTypeCd": "1",
+        "UserAgentTxt": "Ó",
+        "BrowserLanguageTxt": "é",
+        "PlatformTxt": "ÍÚü",
+        "TimeZoneOffsetNum": "+078",
+        "SystemTs": "2021-12-07T18:19:16"
+      },
+      "FederalOriginalSubmissionId": "2296100343919w5h5eu1",
+      "FederalOriginalSubmissionIdDt": "2021-02-01",
+      "FilingLicenseTypeCd": "O",
+      "TotalPreparationSubmissionTs": "102211",
+      "TotActiveTimePrepSubmissionTs": "99371",
+      "AuthenticationReviewCd": [
+        "3",
+        "4"
+      ],
+      "VendorControlNum": "",
+      "AuthenticationReviewTxt": [
+        "éÓ",
+        "§ í £"
+      ]
+    },
+    "Form8283PaperDocumentInd": "X",
+    "Form8858PaperDocumentInd": "X",
+    "Form8332PaperDocumentInd": "X",
+    "Form3468PaperDocumentInd": "X",
+    "Form3115PaperDocumentInd": "X",
+    "Form5713PaperDocumentInd": "X",
+    "Form1098CPaperDocumentInd": "X",
+    "Form8885PaperDocumentInd": "X",
+    "Form8864PaperDocumentInd": "X",
+    "Form4136PaperDocumentInd": "X",
+    "POAPaperDocumentInd": "X",
+    "Form8949PaperDocumentInd": "X"
+  },
+  "ReturnData": {
+    "IRS1040": {
+      "documentId": ".9UlHW7T.0",
+      "softwareId": "46238553",
+      "softwareVersionNum": "×ó5",
+      "documentName": "IRS1040",
+      "referenceDocumentId": "8k Pb5:20..f31:1K",
+      "referenceDocumentName": "IRS965 IRS965A IRS8379 IRS8854 IRS8867 IRS8958 IRSRRB1042S IRSSSA1042S BackupWithholdingFromSchedulesK1Statement BinaryAttachment Chapter11BankruptcyStatement Elect1141110gFlowThruEntStatement Form1098DifferenceStatement NameChangeStatement OverseasExtensionStatement PenaltiesStatement RevokeResidentSpouseStatement SpecialDepreciationAllowanceElectionOutStatement SpouseSignatureStatement GeneralDependencyMedium GeneralDependencySmall",
+      "Form1040SRInd": "X",
+      "IndividualReturnFilingStatusCd": "3",
+      "SpouseNm": "-",
+      "NRALiteralCd": "NRA",
+      "QualifyingHOHNm": "6L'",
+      "QualifyingHOHSSN": "953822742",
+      "QualifyingPersonName": {
+        "PersonFirstNm": "k",
+        "PersonLastNm": "n -"
+      },
+      "QualifyingPersonSSN": "142661584",
+      "SpecialConditionDesc": [
+        "í",
+        "ü"
+      ],
+      "PrimaryDeathDt": "2021-11-15Z",
+      "SpouseDeathDt": "2020-08-07",
+      "SpecialProcessingLiteralCd": "KOSOVO OPERATION",
+      "CombatZoneCd": {
+        "text": "COMBAT ZONE",
+        "combatZoneDt": "2020-10-09Z"
+      },
+      "SpecialProcessingCodeTxt": "Ü",
+      "PECFPrimaryInd": "X",
+      "PECFSpouseInd": "X",
+      "PrimaryClaimAsDependentInd": "X",
+      "SpouseClaimAsDependentInd": "X",
+      "MustItemizeInd": "X",
+      "Primary65OrOlderInd": "X",
+      "PrimaryBlindInd": "X",
+      "Spouse65OrOlderInd": "X",
+      "SpouseBlindInd": "X",
+      "TotalBoxesCheckedCnt": "1",
+      "ExemptSpouseNm": "'t s 2",
+      "ExemptSpouseNameControlTxt": "Z",
+      "TotalExemptPrimaryAndSpouseCnt": "5",
+      "DependentDetail": [
+        {
+          "DependentFirstNm": "-",
+          "DependentLastNm": "b",
+          "DependentNameControlTxt": "H",
+          "IdentityProtectionPIN": "ü ü× é",
+          "DependentSSN": "555687192",
+          "DiedLiteralCd": "DIED",
+          "DependentRelationshipCd": "OTHER",
+          "EligibleForChildTaxCreditInd": "X",
+          "EligibleForODCInd": "X"
+        },
+        {
+          "DependentFirstNm": "-",
+          "DependentLastNm": "tzX",
+          "DependentNameControlTxt": "O   ",
+          "IdentityProtectionPIN": "Invalid",
+          "DependentSSN": "390001435",
+          "DiedLiteralCd": "DIED",
+          "DependentRelationshipCd": "STEPBROTHER",
+          "EligibleForChildTaxCreditInd": "X",
+          "EligibleForODCInd": "X"
+        }
+      ],
+      "MoreDependentsInd": "X",
+      "ChldWhoLivedWithYouCnt": "1",
+      "OtherDependentsListedCnt": "62",
+      "TotalExemptionsCnt": "53",
+      "CommPropStateRtnInd": "X",
+      "WagesSalariesAndTipsAmt": {
+        "text": "1177173962",
+        "wagesNotShownLitOnlyCd": "DCB",
+        "referenceDocumentId": "98KDpe2d F9o6 v6S..i.-n0Z.-VVs-xZc1x9 -F7.obHPxE.-b6C-o-.m5XN-nK :LyH-EL:3-ZBIB81I2.03q.B:",
+        "referenceDocumentName": "IRSW2 NonW2DisabilityPaymentStatement WagesNotShownSchedule"
+      },
+      "TaxExemptInterestAmt": "-1293090112",
+      "TaxableInterestAmt": {
+        "text": "-135580122",
+        "referenceDocumentId": "k-0i3-.1-JGj.BS.p7cnS9A- 1iEC3.m-98J-A...-H0nx18 h-.20UrH6OZbDX7AXXcBNt. f075c:Pm53z-. :5E38 . .S4.lmz.3PrIuj.G2M5i.woL-N0HN UZPVU9.CC8b5.4.7Cd.bm.S S-t1V7CW93-1VsT1sl2:M Rh3.-49MIF1rA4T6cN.HJv--BlY",
+        "referenceDocumentName": "IRS1040ScheduleB"
+      },
+      "QualifiedF8814Cd": "FORM 8814",
+      "QualifiedF8814Amt": "-1053067677",
+      "QualifiedDividendsAmt": "746574099",
+      "OrdinaryF8814Cd": "FORM 8814",
+      "OrdinaryF8814Amt": "1560073101",
+      "OrdinaryDividendsAmt": {
+        "text": "885148605",
+        "referenceDocumentId": "y-Jh-e2.p.gzRLZ.s09Clc.4V-6o dw0 K.zk.-V9u. -to-.-ZTxR-c9.N-.--7MG-: z--483o55z-.F hrTSq15djIo- .p0imfBL-f:5T.Vjnwm7.8QR 8 506SV.b4NieiK..-On.h-I.y7 pVSPDFQ:59p23 86Dg.B..2:wpmIYdAL:X2 anm4hwSr4.jG-7-6S. -KB-iM7aV.. A9",
+        "referenceDocumentName": "IRS1040ScheduleB"
+      },
+      "IRADistributionsAmt": "1594823763",
+      "TaxableIRAAmt": {
+        "text": "1499160787",
+        "referenceDocumentId": "tk.QdJi-4A.7h6c.11jsz74-.UD9 ..93:-0.SvG-yKfnVT-DCy.7q 7NGafw1-Ce. C35-Ti-d.LXH.e87-Za.J8K397P-.",
+        "referenceDocumentName": "IRADistributionStatement"
+      },
+      "IRADistributionsLiteralCd": [
+        "QCD",
+        "ROLLOVER"
+      ],
+      "PensionsAnnuitiesAmt": "-886949970",
+      "ForeignEmployerPensionCd": "FEP",
+      "TaxableForeignPensionsTotalAmt": "-836576993",
+      "TotalTaxablePensionsAmt": {
+        "text": "-1897494679",
+        "pensionsAnnuitiesLiteralCd": "ROLLOVER AND PSO"
+      },
+      "SocSecBnftAmt": {
+        "text": "644139889",
+        "socSecBnftCd": "D AND LSE"
+      },
+      "TaxableSocSecAmt": "1881538693",
+      "CapitalDistributionInd": "X",
+      "CapitalGainLossAmt": {
+        "text": "-2078195031",
+        "referenceDocumentId": "-IsNg8Y6..-W.-KY635-V W5Bh.0vsNY5s-.4-.-1j0 -FwF7-Of.7d.6S3DM.991mO:c mxmxq... Oj.1.x-po.G6T0B:6GT.kzl Gn.-a.U-B-xfuw.6e J.KmFA.5GsZ6vP.u.Ye88-Z.2nk jkuzz.5uw:b-3MtQ .4kgr 7H:x- .at.zu CihPm-D-2-svm6j--1-",
+        "referenceDocumentName": "IRS1040ScheduleD NomineeDistributionStatement"
+      },
+      "Form8814Cd": "FORM 8814",
+      "Form8814Amt": "-1866831977",
+      "TotalAdditionalIncomeAmt": "364626415",
+      "TotalIncomeAmt": "1234102045",
+      "TotalAdjustmentsAmt": "1756944621",
+      "AdjustedGrossIncomeAmt": "-1977233237",
+      "ExcldSect933PuertoRicoIncmAmt": {
+        "text": "-729908813",
+        "excldSect933PuertoRicoIncmCd": "EPRI"
+      },
+      "TotalItemizedOrStandardDedAmt": {
+        "text": "-1804197457",
+        "modifiedStandardDeductionInd": "SECT 933"
+      },
+      "QualifiedBusinessIncomeDedAmt": {
+        "text": "181863832",
+        "referenceDocumentId": "1o..8.-:.8.W:4.OGv ..-CiW42PM-m8X03lM9CwTqA9-Xs w0ENJ7zr.pf1-qC2o5L 25QH-.7Fq..dgU.kmJ-L8N6U.5R-: T:-V4-Ty-EEtZj-.4-egoa6x-.r 27q5k.HG2L4y-T-m.pC.K-.--r.Z8B -hJ-6loE Fd7wk.72u9.Xfs a51Zr-0Wr TiJ.e5-1KNm78yVJ.I",
+        "referenceDocumentName": "IRS8995 IRS8995A"
+      },
+      "TotalDeductionsAmt": "-1125291147",
+      "TaxableIncomeAmt": {
+        "text": "-1655304165",
+        "capitalConstructionFundCd": "CCF",
+        "capitalConstructionFundAmt": "-368649701"
+      },
+      "ScheduleQCd": "SCH Q",
+      "TaxAmt": "626260234",
+      "Form8814Ind": {
+        "text": "X",
+        "childInterestAndDividendTaxAmt": "959206301",
+        "referenceDocumentId": "o.:Ym.G6Us.jU.dB1 ..i7NLE44uR-46pZ vC.:6b3QH8 4v-iWUT5nKo-cUJ.ci8z uxBh--.6:.537-KZs:16-j-QGuvMm gwJEy -I.g. 0-U aV.9-i7t-.Ak4.W-jr.6:-W7. -JDwy9-QDDp--11-CxI8.0 .r7S.fDaMIqql74g10w0g7-0.",
+        "referenceDocumentName": "IRS8814"
+      },
+      "Form4972Ind": {
+        "text": "X",
+        "referenceDocumentId": "-J2TWtEaXH49 7uI-.NH.R--Cz.4DU04.Ye-B FOh-..7.g-R-1. B-Q3-lfy4l.-R.-r2--lHMY-g .-qdNR-.09-fc8.I..QU-Z.--OG-9",
+        "referenceDocumentName": "IRS4972"
+      },
+      "OtherTaxAmtInd": {
+        "text": "X",
+        "referenceDocumentId": "s.Xujm-k1.Ir3 w.N3e.W.n5 e9mEgn.U UK9-s.j.m-p50377rW-.WnA1y.",
+        "referenceDocumentName": "IRS8621 Section962ElectionExplanationStatement"
+      },
+      "OtherTaxAmtGrp": [
+        {
+          "OtherTaxAmtCd": "FORM 8978",
+          "OtherTaxAmt": "342010929"
+        },
+        {
+          "OtherTaxAmtCd": "HCTC",
+          "OtherTaxAmt": "-553352059"
+        }
+      ],
+      "TotalTaxBeforeCrAndOthTaxesAmt": "1044726005",
+      "CTCODCAmt": {
+        "text": "-1348461964",
+        "referenceDocumentId": "Uw5wiKF. .2s.P-uW.S- -WHpSohN-t v1kVVub7m.hlgdD-:f..A.Azxk--x z WBf-8t158.J1 ..-29t.Y-iq31-99Y.OOn-- 4z6-7k.h1M 87R-x7O.EGV 7w J-P-m-79X--cK-cn5LK-D-.- 85j3L63mD-A-Pfe-t: OR.als.Y-n..LKGf:vHr.-W",
+        "referenceDocumentName": "IRS1040Schedule8812"
+      },
+      "TotalCreditsAmt": "-1586715926",
+      "TaxLessCreditsAmt": "2009291290",
+      "TotalOtherTaxesAmt": "1423520332",
+      "Form8854DeferredTaxGrp": [
+        {
+          "TotalTaxDeferredAmt": "-997814213",
+          "ExpatriationCd": "EXP"
+        },
+        {
+          "TotalTaxDeferredAmt": "-1869065653",
+          "ExpatriationCd": "EXP"
+        }
+      ],
+      "TotalTaxAmt": "410396286",
+      "WithholdingTaxAmt": {
+        "text": "-1011117342",
+        "referenceDocumentId": "E2tApLq-1R5--Vnh-I-.pXF-JcP52 .2LdtF q0XMsn00--eR-w-.n1-v-07.0---bn O03.6-nCyH.eI-LS9vHwaq19 :IuM-k6.27Qji8hp 22.O:8wpm9bx.4rmt6-.5 M40P.-7IlL8.YUm..s3...yGd. :1-T--OA.r.L02- Fd-Qgz.QMo0uU6--.--0g.- -83b86.-1.A-..AmfVK:p-.a OU..:IQPLp0Qb.-2D.F6GQe-P1.. 3U4D1LjneQ9F.H1472fRpAcZ.:mt4e -0i8P:4h-U:-DwK.2Gz2zi.:j",
+        "referenceDocumentName": "OtherWithholdingStatement"
+      },
+      "EarnedIncomeCreditAmt": {
+        "text": "67752795",
+        "referenceDocumentId": ":-..Oy sXY95: Vbsi:6h5c0H:A- -.7.Hk9:gF4Sc -eu1-R62Zn7.sVU.q. a..R.4.w --.N.6-.6 40...6u-.BEAHx96 ikh-i..0V816k-3i3-3J8J IyZ.:..Gij047.- i.9c6",
+        "referenceDocumentName": "IRS1040ScheduleEIC"
+      },
+      "EICEligibilityLiteralCd": "NO",
+      "PYEarnedIncmEICGrp": {
+        "PriorYearEarnedIncomeCd": "PYEI",
+        "PriorYearEarnedIncomeAmt": "-654249345"
+      },
+      "NontxCombatPayElectionAmt": "1885099488",
+      "NontaxableCombatPayCd": "NCP",
+      "PYEarnedIncmAdditonalChldTxGrp": {
+        "PriorYearEarnedIncomeCd": "PYEI",
+        "PriorYearEarnedIncomeAmt": "2381669"
+      },
+      "AdditionalChildTaxCreditAmt": {
+        "text": "593043102",
+        "referenceDocumentId": "7.D..-..1.3.ELopFzsT.J",
+        "referenceDocumentName": "IRS1040Schedule8812"
+      },
+      "RefundableAmerOppCreditAmt": {
+        "text": "2127770640",
+        "referenceDocumentId": "mQ.t07m-8-U-.:X-hfT-V. 35nLv2...GU-F-7h.R.5Q6.E3V .:94w1uW-96-z-avmy6gmlB-1C C..55.E-2f16.b-n103.-t--8g t5V7Z2qF8:h-sye2.-hL166F DDx92 JY 7w7-.9s-vj 6.L--L602t65--7l.0BY.tI1 5R",
+        "referenceDocumentName": "IRS8863"
+      },
+      "TotalOtherPaymentsRfdblCrAmt": "1603884022",
+      "RefundableCreditsAmt": "1152826727",
+      "TotalPaymentsAmt": {
+        "text": "1908483309",
+        "form8689Cd": "FORM 8689",
+        "form8689Amt": "-1932726320"
+      },
+      "OverpaidAmt": "-1609998053",
+      "RefundAmt": "715069969",
+      "Form8888Ind": {
+        "text": "X",
+        "referenceDocumentId": "i:o-yGn4-o. 4O. -A-N.tf--N8Xw0F.F2b7--Cc8. 86Ih81-1au6LP09f..ezfmUEv.QAKy kZu.:.UfJMa.W4p5",
+        "referenceDocumentName": "IRS8888"
+      },
+      "RoutingTransitNum": "327857642",
+      "BankAccountTypeCd": "2",
+      "DepositorAccountNum": "0",
+      "AppliedToEsTaxAmt": {
+        "text": "560852345",
+        "referenceDocumentId": "X9-R--.12OHA...lmo7-- Dn1n.R0.R41J8cPeD.D 8Y-Ic.O:.5h -M6sYZ08 C7",
+        "referenceDocumentName": "OvpmtAppToSpouseEstimatedTaxStatement"
+      },
+      "OwedAmt": "-1286597390",
+      "EsPenaltyAmt": "-1972004916",
+      "ThirdPartyDesigneeInd": "0",
+      "ThirdPartyDesigneeNm": "i-",
+      "ThirdPartyDesigneePhoneNum": "3379853090",
+      "ThirdPartyDesigneePIN": "99081",
+      "PowerOfAttorneySignedByInd": "X",
+      "PowerOfAttorneyNm": "'",
+      "PrimaryOccupationTxt": "5",
+      "SpouseOccupationTxt": "L",
+      "SurvivingSpouseInd": "X",
+      "PersonalRepresentativeInd": "X",
+      "PhoneNum": "4844121534",
+      "ForeignPhoneNum": "869181048666082",
+      "NonPaidPreparerCd": "IRS-PREPARED",
+      "RefundProductCd": [
+        "PRE-REFUND ADVANCE PRODUCT - TAXPAYER NOT CHARGED AN ADVANCE FEE",
+        "PRE-REFUND ADVANCE PRODUCT - TAXPAYER CHARGED AN ADVANCE FEE (RAL)"
+      ],
+      "RefundProductCodeTxt": "ó£"
+    }
+  }
+}

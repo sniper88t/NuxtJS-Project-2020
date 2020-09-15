@@ -1,0 +1,74 @@
+{
+  "IRS1040Schedule2": {
+    "xmlns": "http://www.irs.gov/efile",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "documentId": "B.-t.X...Dtj2.0O-",
+    "softwareId": "44809984",
+    "softwareVersionNum": "Í",
+    "documentName": "IRS1040Schedule2",
+    "referenceDocumentId": "-:oK6Y.Jul3B-cXcX6YS.h Snr-9--0u.:a- C:IH.-3Yh5--8zr23I5w3v 2RxckO:XY.FZ86h.0S-D.ID-.cL ..:Lc7i8-bIsx .-Vd.9 .2k-8.1h.z",
+    "referenceDocumentName": "BinaryAttachment GeneralDependencyMedium GeneralDependencySmall",
+    "AlternativeMinimumTaxAmt": {
+      "text": "-236773466",
+      "referenceDocumentId": ":o-yGn4-o.1IEJ-A-N.tf-- AxkA.-QU.- --Cc8.-i4t1--9a88..ps0U",
+      "referenceDocumentName": "IRS6251"
+    },
+    "PremiumTaxCreditTaxLiabAmt": {
+      "text": "1433614519",
+      "referenceDocumentId": "-.O--efx9.RyOqNbn3-- 4E2EJ--V94 J8cPeD.D-4-1 c.O:.5ho4-1:Qa-4C .7hkl ZH52-7.2l.c.xQU10. --wI-7F.bd.44NO2Kgtz.K8P6 9YR-..4.H-Z7.Q:ML5HMe Y .I00ir30:nnYs1xpCb v",
+      "referenceDocumentName": "IRS8962"
+    },
+    "AdditionalTaxAmt": "1243342945",
+    "SelfEmploymentTaxAmt": {
+      "text": "1082780459",
+      "exemptSETaxLiteralCd": "EXEMPT COMMUNITY INCOME",
+      "referenceDocumentId": "Ta.5DURcl.R-Tfi--.26..u631 .X X.-.9dpvg4..g-g-73CahUJ.qX36 GKY.-Q-7--fFtQeyz IJ5D-e2Q7dK.U .9.2k .zu.6- 2--50Z0P.-4 00.-.x.5s26rAl7.d9ju:3KjeaPSu8 95C-Zh8nVY",
+      "referenceDocumentName": "IRS1040ScheduleSE"
+    },
+    "UnrprtdSocSecAndMedcrTaxAmt": "906403952",
+    "Form4137Ind": {
+      "text": "X",
+      "referenceDocumentId": "DI1-l--lY --IqQVs-F8 D83yStA Y.l-m .ouC3--197nKP .r.W2P.io-k4oJ5N-2.i:Jn-2vy: E.EA8Zx1..:-nb7--zLz-8-T-a0-.",
+      "referenceDocumentName": "IRS4137"
+    },
+    "Form8919Ind": {
+      "text": "X",
+      "referenceDocumentId": "1KPC.-AH- S.Fc.x Z-Dn.Q3CV.Aa12J l6-9x.N--o--Naxk99GD7-.nCW",
+      "referenceDocumentName": "IRS8919"
+    },
+    "TaxOnIRAsAmt": {
+      "text": "-1565458359",
+      "retirementTaxPlanLiteralCd": "NO",
+      "referenceDocumentId": "..212. 0U.f:X.s79-1:-6ue.R",
+      "referenceDocumentName": "IRS5329"
+    },
+    "HouseholdEmploymentTaxAmt": {
+      "text": "-178770358",
+      "referenceDocumentId": "0 FVIq4p9XE.5- B0N51.eEm.-:-.aV-.:.H-2Lju- :J1.J5Uxm-U736R-03.G6z47R..3z 9l.99X-Itq 3y .P 27IDAf",
+      "referenceDocumentName": "IRS1040ScheduleH"
+    },
+    "FirstTimeHmByrRepaymentAmt": {
+      "text": "-1726867632",
+      "referenceDocumentId": "4l-2At 4s ibL",
+      "referenceDocumentName": "IRS5405"
+    },
+    "Form8959Ind": {
+      "text": "X",
+      "referenceDocumentId": "7.h1.Zbh.S.Lndv6a952Ppm3Oy.DC0 t8MNTC--s3Nj.z: jnl53zDk--yq-Aw 7:.6:dC6.r- 4zugp-1sk-JX-cS1Q.-SxkW9W -F-7Zx44MU.u7.Wd 23E77.v11.r--..3--G5imK.m .37at3c85 r3 E1:6R-ak.lziWm..1Pc3xA",
+      "referenceDocumentName": "IRS8959"
+    },
+    "Form8960Ind": {
+      "text": "X",
+      "referenceDocumentId": "W f4.p.3KVT-7g.l X7j8TPk.7N:E .7-Ci Wkv s.D43a740..aV-E 1 sWPK...-nrpZ5.yjW7I33sCS9 .cNF7pRR--VD.0.-q3Z 2-P:O-.WM6",
+      "referenceDocumentName": "IRS8960"
+    },
+    "OtherTaxCdInd": "X",
+    "Frm89598960OtherTaxAmt": {
+      "text": "1503366734",
+      "referenceDocumentId": "8.mB6kZ:81:76mTVY.A--o5X0z Hl--n-vX2.a-.p7Y76677G-i-X 04:-7zed.:t F",
+      "referenceDocumentName": "OtherTaxStatement"
+    },
+    "Section965TaxInstallmentAmt": "1946928773",
+    "TotalOtherTaxesAmt": "-1950639122"
+  }
+}

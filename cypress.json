@@ -1,0 +1,7 @@
+{
+  "video": false,
+  "env": {
+    "baseUrl": "http://localhost:3000/"
+  },
+  "projectId": "39u1o9"
+}

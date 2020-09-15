@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IRS1040Schedule3 xmlns="http://www.irs.gov/efile"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.irs.gov/efile file:/Users/rorisme/Developer/github/rdtechtax/schemas/mef-schema-1040/2019v5.0/IndividualIncomeTax/Ind1040/IRS1040Schedule3/IRS1040Schedule3.xsd" documentId="k" softwareId="24861586" softwareVersionNum="Ñ" documentName="IRS1040Schedule3" referenceDocumentId=".RL.--kw-U.-F.I.8.9esiA-J-m jeFFi-v- UAbK-23Gfd43.E-1SmImcJl-9 l2uo.53 pru2B..0 kgfxYow.1-1y7W.--30.-72N 85jS93.BlB.X0 l1478b-Hj--Nriq jZYv.bJo:-a-OAfJuN-d-2fC- A.X3C9w:yp6Z- -QjBroaZmag9"
+     referenceDocumentName="BinaryAttachment GeneralDependencyMedium GeneralDependencySmall">
+    <ForeignTaxCreditAmt referenceDocumentId="m7:.LsT3EU3.W-KZ..IQ-a.B -.I2..8voM6.Y3v-YX0-347-.Yq 2-7-.y0JzFYJ-55Q62vLkUdC.-92:8 Ss.g. -3.t-:t R0ZGm.S-.-K-O.Gy e1-hVFyNpCiX-b:lZ. JD0.z9-8.-O.0-8.A.. 13.06c0yDjMDADbW7 .XZXzW6US:A6mKg- ..0T.kwJm8g o..RFUjmxcfbo.7S.. -dR.E-C16B.QR6n1-2G.-x...6 qUt-7xO3N9T-.J7..a.eJ2lc.M2"
+         referenceDocumentName="IRS1116">-997079279</ForeignTaxCreditAmt>
+    <CreditForChildAndDepdCareAmt referenceDocumentId="9Ej.d." referenceDocumentName="IRS2441">899036565</CreditForChildAndDepdCareAmt>
+    <EducationCreditAmt referenceDocumentId="8d--.vB-1--73kzl3ZLw :pqZ.-g.Z.mL1.7t-4jnKm-g.pm I.0SgK.4.JTw5-.a0 BW7J91s62jRSEx3..Y9 zcZpnJ5K3A4V.GoN-d2-v DJn6Z-nIWY.v HUEpr-.4F1R.3m:T0BOR.n..H-- Cru17-z72..Hgy1.ZV.RgJ. D Y.6e5d.mfd1 ..m:P.9:S.6..H.Dw 8k.q5ovhf9 .Z--0wT0-717 m9D."
+         referenceDocumentName="IRS8863">1449388716</EducationCreditAmt>
+    <RtrSavingsContributionsCrAmt referenceDocumentId=".9N807-Dc-7Xl..5. H5rPhP.ENHr-s997g6y0.Nmq.lbx-k O5NJ. N6Dn38:12MW7b.aD2PeS6 9yOYG.M--.Jz.-R4.v234x. mJ8MOkQ"
+         referenceDocumentName="IRS8880">-129284290</RtrSavingsContributionsCrAmt>
+    <ResidentialEnergyCreditAmt referenceDocumentId="c0u67a:T-x-Tr5V 6ut9DdJ7-01650L bCRK5SFU45uk.A-9 -z 2-pzU-U 52QYABdpw13-.-.y:-74a6-l6426 Beci ---U9d7C1--v..C W:-.:.5kJiP41b-Cg9.c...MVcZ 2O-63.har-.-R Q.hHlC5X-.-Wc10.qvk9:-"
+         referenceDocumentName="IRS5695">-1045753359</ResidentialEnergyCreditAmt>
+    <Form3800Ind referenceDocumentId="Cj.U..PKY0-A6812zj7.m0d-M IU:hAOEY2UHBY.u QaNbCsUa9C-t:2.7-u 8vU997n4J m7HD:Rg85-..B7O8Mkhbvy2k.-hkb"
+         referenceDocumentName="IRS3800">X</Form3800Ind>
+    <Form8801Ind referenceDocumentId="TnpLD3vH 1.5AHh7.jyZ4S2A.mlX6-O- 9.cbW5h-.6k:KY0b" referenceDocumentName="IRS8801">X</Form8801Ind>
+    <SpecificOtherCreditsInd creditFormsStatementSchRCd="SCH R" creditFormsStatement8396Cd="8396" creditFormsStatement8834Cd="8834"
+         creditFormsStatement8839Cd="8839" creditFormsStatement8859Cd="8859" creditFormsStatement8910Cd="8910"
+         creditFormsStatement8911Cd="8911" creditFormsStatement8912Cd="8912" creditFormsStatement8936Cd="8936"
+         creditFormsStatement8978Cd="FORM 8978" referenceDocumentId="Sr-1a:-djO9qeC-EVo1d----2-" referenceDocumentName="IRS1040ScheduleR IRS8396 IRS8834 IRS8839 IRS8859 IRS8910 IRS8911 IRS8912 IRS8936 IRS8978">X</SpecificOtherCreditsInd>
+    <OtherCreditsAmt>-1584169803</OtherCreditsAmt>
+    <TotalNonrefundableCreditsAmt>-347349305</TotalNonrefundableCreditsAmt>
+    <EstimatedTaxPaymentsAmt divorcedSpouseSSN="647467496" divorcedLiteralCd="DIV" referenceDocumentId=":-V 88B3U-p-N9.2AD3HOT-cDQ-Feq-8 he1d-GO:Z3 Q4--.7dizG.K.m-UWU8b.-AwhUrdv J1.-P .-..-84.- jM .W-kZ428 5:Z999Js-:y-.4X M. 2LUo3.Y-.9E-- 7v-DzA4v..k.NK.W-.VF.gD:w 4-mr.-R-6hf.u5h c9-.ZAOvlw"
+         referenceDocumentName="PaidJointTYEstimatedTaxExplanationStatement">-32482594</EstimatedTaxPaymentsAmt>
+    <ReconciledPremiumTaxCreditAmt referenceDocumentId="DdC-n90Hvv2.Q.-.NJG.ab 5t9u-N1-7-WK-..C5E1-2Ls-jDi" referenceDocumentName="IRS8962">1364683712</ReconciledPremiumTaxCreditAmt>
+    <RequestForExtensionAmt>499910816</RequestForExtensionAmt>
+    <ExcessSocSecAndTier1RRTATaxAmt>1369004248</ExcessSocSecAndTier1RRTATaxAmt>
+    <TotalFuelTaxCreditAmt referenceDocumentId="K46dZXSWfKjCp.c 9sQ8t8w.v5- .VP.--fjg.M-6..Jkm8-Z4IM 5.A-T-.n-7.5iJ-N 2o.-.C. qAf8cs.L3.GxO1bV3-62I-w2Tfe .vrcTp8.-wK3 -8zjtD8z.O-S1tNx: ufL80-S1.2eC -X.GK.-G9"
+         referenceDocumentName="IRS4136">617895536</TotalFuelTaxCreditAmt>
+    <Form2439Ind referenceDocumentId=".q--WSdngQQ-7R3De6 GFBRUJ-q--7Ffa3V8--j- -yO-LZ4:-83-.Y.4GgY-B8wRk.L6EC" referenceDocumentName="IRS2439">X</Form2439Ind>
+    <Form8885Ind referenceDocumentId="b.6aI3.Wxx: vDDSWVX.Fu.5G4u3-n-..Kv -gpBgr8-C.e.t:.9.a6RQLXNy.D .hU2u-M.g 4Qk00k1wiQcC2u7j154.mL: ok4.FnN.. waT-V6-cH7g562M9.-3-H---x.O -J-.XV6g0-.dV 3Wv-c-3w.XCAcJ.--n8njoV 3J9cB-.AVx.9Rudh-1.E.GAvx5 Pj.9H..3H.Ex po-.-D7.7R-wWzl8zp554CcsqZKk hGJvE4.5A7KS.sy1-Bzk67v6.2."
+         referenceDocumentName="IRS8885">X</Form8885Ind>
+    <OtherPaymentsInd>X</OtherPaymentsInd>
+    <CreditRepaymentGrp>
+        <CreditForRepaymentCd>IRC 1341</CreditForRepaymentCd>
+        <CreditForRepaymentAmt>1771152385</CreditForRepaymentAmt>
+    </CreditRepaymentGrp>
+    <CreditRepaymentGrp>
+        <CreditForRepaymentCd>TAX</CreditForRepaymentCd>
+        <CreditForRepaymentAmt>1466247615</CreditForRepaymentAmt>
+    </CreditRepaymentGrp>
+    <OtherPaymentsAmt>-577724703</OtherPaymentsAmt>
+    <TotalOtherPaymentsRfdblCrAmt>1177594980</TotalOtherPaymentsRfdblCrAmt>
+</IRS1040Schedule3>

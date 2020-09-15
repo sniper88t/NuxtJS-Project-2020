@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OtherTaxStatement xmlns="http://www.irs.gov/efile"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ documentId=":.L01-." softwareId="09019251" softwareVersionNum="×" documentName="OtherTaxStatement">
+    <OtherTaxStmt>
+        <OtherTaxLitCd>HSA</OtherTaxLitCd>
+<!--        <OtherTaxTxt>áóÚ\</OtherTaxTxt>-->
+        <OtherTaxAmt>-752619254</OtherTaxAmt>
+    </OtherTaxStmt>
+    <OtherTaxStmt>
+        <OtherTaxLitCd>MSA</OtherTaxLitCd>
+<!--        <OtherTaxTxt>ó</OtherTaxTxt>-->
+        <OtherTaxAmt>-1426946974</OtherTaxAmt>
+    </OtherTaxStmt>
+</OtherTaxStatement>

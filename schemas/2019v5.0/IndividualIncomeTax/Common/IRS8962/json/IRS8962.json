@@ -1,0 +1,74 @@
+{
+  "IRS8962": {
+    "xmlns": "http://www.irs.gov/efile",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "documentId": "documentId1",
+    "softwareId": "00000000",
+    "softwareVersionNum": "softwareVersionNum1",
+    "documentName": "IRS8962",
+    "referenceDocumentId": "referenceDocumentId1",
+    "referenceDocumentName": "GeneralDependencySmall GeneralDependencyMedium BinaryAttachment",
+    "QSEHRAInd": "false",
+    "MarriedFilingSeparatelyExcInd": "X",
+    "TotalExemptionsCnt": "50",
+    "ModifiedAGIAmt": "0",
+    "TotalDependentsModifiedAGIAmt": "0",
+    "HouseholdIncomeAmt": "50",
+    "PovertyLevelAmt": "50",
+    "FederalPovertyTableLocCd": "A",
+    "FederalPovertyLevelPct": "500",
+    "FederalPovertyLevelPct401Ind": "false",
+    "ApplicableFigureRt": "0.500",
+    "AnnualContributionAmt": "50",
+    "MonthlyContriHealthCareCvrAmt": "50",
+    "SharePolicyMarriedAltCalcInd": "false",
+    "FullYrCoverage1095AInd": "false",
+    "AnnualPTCCalculationGrp": {
+      "AnnualPremiumAmt": "50",
+      "AnnualPremiumSLCSPAmt": "50",
+      "AnnualContributionAmt": "50",
+      "AnnualMaxPremiumAssistanceAmt": "50",
+      "AnnualPremiumTaxCreditAllwAmt": "50",
+      "AnnualAdvancedPTCAmt": "50"
+    },
+    "TotalPremiumTaxCreditAmt": "50",
+    "TotalAdvancedPTCAmt": "50",
+    "ReconciledPremiumTaxCreditAmt": "50",
+    "ExcessAdvncPaymentAmt": "50",
+    "AdditionalTaxLimitationAmt": "50",
+    "PremiumTaxCreditTaxLiabAmt": "50",
+    "SharedPolicyAllocationGrp": [
+      {
+        "PolicyNum": "PolicyNum0",
+        "SSN": "000000000",
+        "StartMonthNumberCd": "01",
+        "EndMonthNumberCd": "01",
+        "MonthlyPremiumPct": "0.50",
+        "MonthlyPremiumSLCSPPct": "0.50",
+        "MonthlyAdvancedPTCPct": "0.50"
+      },
+      {
+        "PolicyNum": "PolicyNum1",
+        "SSN": "000000000",
+        "StartMonthNumberCd": "01",
+        "EndMonthNumberCd": "01",
+        "MonthlyPremiumPct": "0.50",
+        "MonthlyPremiumSLCSPPct": "0.50",
+        "MonthlyAdvancedPTCPct": "0.50"
+      }
+    ],
+    "SharedPolicyAllocationInfoInd": "false",
+    "AltCalcForMarriagePrimaryGrp": {
+      "FamilySizeCnt": "50",
+      "MonthlyContributionAmt": "50",
+      "StartMonthNumberCd": "01",
+      "EndMonthNumberCd": "01"
+    },
+    "AltCalcForMarriageSpouseGrp": {
+      "FamilySizeCnt": "50",
+      "MonthlyContributionAmt": "50",
+      "StartMonthNumberCd": "01",
+      "EndMonthNumberCd": "01"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "IRS1040Schedule1": {
+    "xmlns": "http://www.irs.gov/efile",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "documentId": "documentId1",
+    "softwareId": "00000000",
+    "softwareVersionNum": "softwareVersionNum1",
+    "documentName": "IRS1040Schedule1",
+    "referenceDocumentId": "referenceDocumentId1",
+    "referenceDocumentName": "BinaryAttachment GeneralDependencyMedium GeneralDependencySmall",
+    "VirtualCurAcquiredDurTYInd": "false",
+    "StateLocalIncomeTaxRefundAmt": "0",
+    "AlimonyReceivedAmt": "50",
+    "DivorceOrSeparationAgreementDt": "2006-05-04",
+    "BusinessIncomeLossAmt": {
+      "text": "0",
+      "referenceDocumentId": "referenceDocumentId3",
+      "referenceDocumentName": "IRS1040ScheduleC"
+    },
+    "OtherGainLossAmt": {
+      "text": "0",
+      "form4684Cd": "F4684",
+      "referenceDocumentId": "referenceDocumentId5",
+      "referenceDocumentName": "IRS4797"
+    },
+    "RentalRealEstateIncomeLossAmt": {
+      "text": "0",
+      "referenceDocumentId": "referenceDocumentId7",
+      "referenceDocumentName": "IRS1040ScheduleE"
+    },
+    "NetFarmProfitLossAmt": {
+      "text": "0",
+      "referenceDocumentId": "referenceDocumentId9",
+      "referenceDocumentName": "IRS1040ScheduleF"
+    },
+    "UnemploymentCompAmt": {
+      "text": "50",
+      "repaymentCd": "REPAID",
+      "repaymentAmt": "0"
+    },
+    "TotalOtherIncomeAmt": {
+      "text": "0",
+      "referenceDocumentId": "referenceDocumentId11",
+      "referenceDocumentName": "OtherIncomeTypeStatement"
+    },
+    "ProtectiveSec108iELCRecordInd": "X",
+    "TotalAdditionalIncomeAmt": "0",
+    "EducatorExpensesAmt": "0",
+    "BusExpnsReservistsAndOthersAmt": {
+      "text": "0",
+      "referenceDocumentId": "referenceDocumentId13",
+      "referenceDocumentName": "IRS2106"
+    },
+    "HealthSavingsAccountDedAmt": {
+      "text": "0",
+      "referenceDocumentId": "referenceDocumentId15",
+      "referenceDocumentName": "IRS8889"
+    },
+    "MovingExpenseAmt": {
+      "text": "0",
+      "referenceDocumentId": "referenceDocumentId17",
+      "referenceDocumentName": "IRS3903"
+    },
+    "MovingExpenseCd": "STORAGE",
+    "DeductibleSelfEmploymentTaxAmt": {
+      "text": "0",
+      "referenceDocumentId": "referenceDocumentId19",
+      "referenceDocumentName": "IRS1040ScheduleSE"
+    },
+    "SelfEmpldSepSimpleQlfyPlansAmt": "0",
+    "SelfEmpldHealthInsDedAmt": "50",
+    "PnltyOnErlyWthdrwOfSavingsAmt": "0",
+    "AlimonyAmountGrp": [
+      {
+        "AlimonyPaidAmt": "50",
+        "RecipientSSN": "000000000",
+        "DivorceOrSeparationAgreementDt": "2006-05-04"
+      },
+      {
+        "AlimonyPaidAmt": "50",
+        "RecipientSSN": "000000000",
+        "DivorceOrSeparationAgreementDt": "2006-05-04"
+      }
+    ],
+    "TotalAlimonyPaidAmt": "50",
+    "IRADeductionAmt": "0",
+    "IRADeductionCd": "D",
+    "StudentLoanInterestDedAmt": "0",
+    "TuitionAndFeesDedAmt": {
+      "text": "0",
+      "referenceDocumentId": "referenceDocumentId21",
+      "referenceDocumentName": "IRS8917"
+    },
+    "OtherAdjustmentsTotalAmt": {
+      "text": "0",
+      "referenceDocumentId": "referenceDocumentId23",
+      "referenceDocumentName": "IRS8903 DomesticProductionActivitiesStatement"
+    },
+    "TotalAdjustmentsAmt": {
+      "text": "0",
+      "referenceDocumentId": "referenceDocumentId25",
+      "referenceDocumentName": "OtherAdjustmentsStatement"
+    }
+  }
+}

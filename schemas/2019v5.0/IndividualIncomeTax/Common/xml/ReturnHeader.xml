@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReturnHeader xmlns="http://www.irs.gov/efile"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.irs.gov/efile file:/Users/rorisme/Developer/github/rdtechtax/schemas/mef-schema-1040/2019v5.0/IndividualIncomeTax/Common/ReturnHeader1040x.xsd" binaryAttachmentCnt="1336493677">
+    <ReturnTs>2022-01-19T18:19:16Z</ReturnTs>
+    <TaxYr>1132</TaxYr>
+    <TaxPeriodBeginDt>2021-02-01</TaxPeriodBeginDt>
+    <TaxPeriodEndDt>2022-02-09Z</TaxPeriodEndDt>
+    <ImperfectReturnInd>X</ImperfectReturnInd>
+    <InactiveITINReturnInd>X</InactiveITINReturnInd>
+    <ConsortiumReturnCd>English Free-File</ConsortiumReturnCd>
+    <AffordableFilingCd>Partners Page English</AffordableFilingCd>
+    <ISPNum>EE42DI</ISPNum>
+    <SoftwareId>42494485</SoftwareId>
+    <SoftwareVersionNum>ñÓ ó×</SoftwareVersionNum>
+    <OriginatorGrp>
+        <EFIN>492760</EFIN>
+        <OriginatorTypeCd>ReportingAgent</OriginatorTypeCd>
+        <PractitionerPINGrp>
+            <EFIN>784753</EFIN>
+            <PIN>86525</PIN>
+        </PractitionerPINGrp>
+    </OriginatorGrp>
+    <SelfSelectPINGrp>
+        <PrimaryBirthDt>2020-09-22Z</PrimaryBirthDt>
+        <SpouseBirthDt>2021-06-04Z</SpouseBirthDt>
+        <PrimaryPriorYearAGIAmt>811189213</PrimaryPriorYearAGIAmt>
+        <SpousePriorYearAGIAmt>2105441895</SpousePriorYearAGIAmt>
+        <PrimaryPriorYearPIN>52537</PrimaryPriorYearPIN>
+        <SpousePriorYearPIN>56456</SpousePriorYearPIN>
+    </SelfSelectPINGrp>
+    <IdentityProtectionPIN>Invalid</IdentityProtectionPIN>
+    <SpouseIdentityProtectionPIN>u</SpouseIdentityProtectionPIN>
+    <PINTypeCd>Self-Select On-Line</PINTypeCd>
+    <JuratDisclosureCd>Practitioner PIN</JuratDisclosureCd>
+    <PrimaryPINEnteredByCd>Taxpayer</PrimaryPINEnteredByCd>
+<!--    <ParentGrdnLegalResponsibleGrp>
+        <MinorChildSignedByCd>LEGALLY RESPONSIBLE PERSON FOR MINOR CHILD</MinorChildSignedByCd>
+        <PersonNm>l -9</PersonNm>
+    </ParentGrdnLegalResponsibleGrp>-->
+    <SpousePINEnteredByCd>ERO</SpousePINEnteredByCd>
+    <PrimarySignaturePIN>98682</PrimarySignaturePIN>
+    <SpouseSignaturePIN>12412</SpouseSignaturePIN>
+    <PrimarySignatureDt>2020-09-01</PrimarySignatureDt>
+    <SpouseSignatureDt>2021-06-11Z</SpouseSignatureDt>
+    <ReturnTypeCd>1040</ReturnTypeCd>
+    <Filer>
+        <PrimarySSN>418709889</PrimarySSN>
+        <SpouseSSN>050645519</SpouseSSN>
+        <NameLine1Txt>f W-x&amp;</NameLine1Txt>
+        <InCareOfNm>% &amp;b &amp;</InCareOfNm>
+        <PrimaryNameControlTxt>H  -</PrimaryNameControlTxt>
+        <SpouseNameControlTxt>J--</SpouseNameControlTxt>
+        <USAddress>
+            <AddressLine1Txt>H</AddressLine1Txt>
+            <AddressLine2Txt>E 3</AddressLine2Txt>
+            <CityNm>x</CityNm>
+            <StateAbbreviationCd>PW</StateAbbreviationCd>
+            <ZIPCd>91053</ZIPCd>
+        </USAddress>
+<!--        <ForeignAddress>
+            <AddressLine1Txt>U</AddressLine1Txt>
+            <AddressLine2Txt>6</AddressLine2Txt>
+            <CityNm>W</CityNm>
+            <ProvinceOrStateNm>Á£</ProvinceOrStateNm>
+            <CountryCd>NL</CountryCd>
+            <ForeignPostalCd>é</ForeignPostalCd>
+        </ForeignAddress>-->
+    </Filer>
+    <PaidPreparerInformationGrp>
+        <SignatureDt>2020-03-28</SignatureDt>
+        <ThirdPartyDesigneeInd>X</ThirdPartyDesigneeInd>
+        <SelfEmployedInd>X</SelfEmployedInd>
+<!--        <PTIN>P82364787</PTIN>-->
+<!--        <STIN>S20509201</STIN>-->
+        <PreparerSSN>626514367</PreparerSSN>
+        <PreparerFirmEIN>426996688</PreparerFirmEIN>
+        <PreparerPersonNm>-</PreparerPersonNm>
+        <PreparerFirmName>
+            <BusinessNameLine1Txt>(</BusinessNameLine1Txt>
+            <BusinessNameLine2Txt>'&amp;</BusinessNameLine2Txt>
+        </PreparerFirmName>
+<!--        <PreparerUSAddress>
+            <AddressLine1Txt>i</AddressLine1Txt>
+            <AddressLine2Txt>s</AddressLine2Txt>
+            <CityNm>L</CityNm>
+            <StateAbbreviationCd>MH</StateAbbreviationCd>
+            <ZIPCd>54825</ZIPCd>
+        </PreparerUSAddress>-->
+        <PreparerForeignAddress>
+            <AddressLine1Txt>wJ4 5</AddressLine1Txt>
+            <AddressLine2Txt>2</AddressLine2Txt>
+            <CityNm>K v MR</CityNm>
+            <ProvinceOrStateNm>á Ó</ProvinceOrStateNm>
+            <CountryCd>FO</CountryCd>
+            <ForeignPostalCd>£ ñü</ForeignPostalCd>
+        </PreparerForeignAddress>
+<!--        <PhoneNum>7673104938</PhoneNum>-->
+        <ForeignPhoneNum>880810556225754551788770</ForeignPhoneNum>
+        <EmailAddressTxt>v@h</EmailAddressTxt>
+    </PaidPreparerInformationGrp>
+    <OnlineFilerInformation>
+        <RoutingTransitNum>245230023</RoutingTransitNum>
+<!--        <CheckCd>Check</CheckCd>-->
+        <DepositorAccountNum>Z4</DepositorAccountNum>
+    </OnlineFilerInformation>
+    <AdditionalFilerInformation>
+        <AtSubmissionCreationGrp>
+            <RoutingTransitNum>031198712</RoutingTransitNum>
+            <DepositorAccountNum>0p</DepositorAccountNum>
+            <BankAccountDataCapturedTs>2020-08-10T18:19:16</BankAccountDataCapturedTs>
+            <CellPhoneNum>0199446074</CellPhoneNum>
+<!--            <ForeignCellPhoneNum>893</ForeignCellPhoneNum>-->
+            <EmailAddressTxt>s@e</EmailAddressTxt>
+        </AtSubmissionCreationGrp>
+        <PrimDrvrLcnsOrStateIssdIdGrp>
+            <DrvrLcnsOrStateIssdIdNum>ñ</DrvrLcnsOrStateIssdIdNum>
+            <DrvrLcnsOrStateIssdIdStCd>DE</DrvrLcnsOrStateIssdIdStCd>
+            <DrvrLcnsOrStateIssdIdExprDt>2021-06-11Z</DrvrLcnsOrStateIssdIdExprDt>
+            <DrvrLcnsOrStateIssdIdIssDt>2021-01-12</DrvrLcnsOrStateIssdIdIssDt>
+        </PrimDrvrLcnsOrStateIssdIdGrp>
+        <SpsDrvrLcnsOrStateIssdIdGrp>
+            <DrvrLcnsOrStateIssdIdNum>é Ú£§</DrvrLcnsOrStateIssdIdNum>
+            <DrvrLcnsOrStateIssdIdStCd>SC</DrvrLcnsOrStateIssdIdStCd>
+            <DrvrLcnsOrStateIssdIdExprDt>2020-08-17Z</DrvrLcnsOrStateIssdIdExprDt>
+            <DrvrLcnsOrStateIssdIdIssDt>2021-03-03</DrvrLcnsOrStateIssdIdIssDt>
+        </SpsDrvrLcnsOrStateIssdIdGrp>
+        <AtSubmissionFilingGrp>
+            <RefundDisbursementCd>5</RefundDisbursementCd>
+            <RefundDisbursementCd>6</RefundDisbursementCd>
+            <RoutingTransitNum>104244903</RoutingTransitNum>
+            <DepositorAccountNum>-</DepositorAccountNum>
+            <RefundProductElectionInd>1</RefundProductElectionInd>
+            <RefundProductCIPCd>4</RefundProductCIPCd>
+<!--            <CellPhoneNum>9816650357</CellPhoneNum>-->
+            <ForeignCellPhoneNum>51</ForeignCellPhoneNum>
+            <EmailAddressTxt>a@zif</EmailAddressTxt>
+        </AtSubmissionFilingGrp>
+        <TrustedCustomerGrp>
+            <TrustedCustomerCd>1</TrustedCustomerCd>
+            <OOBSecurityVerificationCd>06</OOBSecurityVerificationCd>
+            <LastSubmissionRqrOOBCd>1</LastSubmissionRqrOOBCd>
+            <AuthenticationSummaryCd>IAL1</AuthenticationSummaryCd>
+            <AuthenticationSummaryCd>FAL2</AuthenticationSummaryCd>
+            <PaymentDeclinedReasonCd>1</PaymentDeclinedReasonCd>
+            <ProfileUserNameChangeInd>X</ProfileUserNameChangeInd>
+            <ProfilePasswordChangeInd>X</ProfilePasswordChangeInd>
+            <ProfileEmailAddressChangeInd>X</ProfileEmailAddressChangeInd>
+            <ProfileCellPhoneNumChangeInd>X</ProfileCellPhoneNumChangeInd>
+        </TrustedCustomerGrp>
+    </AdditionalFilerInformation>
+    <FilingSecurityInformation>
+        <AtSubmissionCreationGrp>
+            <IPAddress>
+                <IPv4AddressTxt>3.4.700.30</IPv4AddressTxt>
+<!--                <IPv6AddressTxt>EDFF368:DF</IPv6AddressTxt>-->
+            </IPAddress>
+            <IPPortNum></IPPortNum>
+            <DeviceId>9EEAA3D4398D4BFAEC295D3AA87FBCB9598FDDB0</DeviceId>
+            <DeviceTypeCd>1</DeviceTypeCd>
+            <UserAgentTxt>ÜÍ Ñ×</UserAgentTxt>
+            <BrowserLanguageTxt>Ñ§ÑÜ</BrowserLanguageTxt>
+            <PlatformTxt>ñ</PlatformTxt>
+            <TimeZoneOffsetNum>-495</TimeZoneOffsetNum>
+            <SystemTs>2020-12-09T18:19:16Z</SystemTs>
+        </AtSubmissionCreationGrp>
+        <AtSubmissionFilingGrp>
+            <IPAddress>
+<!--                <IPv4AddressTxt>04.846.1.2</IPv4AddressTxt>-->
+                <IPv6AddressTxt>772F83CBFFC0E37BF94CC2DEEB26F265DBCC2</IPv6AddressTxt>
+            </IPAddress>
+            <FinalIPPortNum></FinalIPPortNum>
+            <DeviceId>ADECBA691DCEEA8652F09A0DC4328EFD71DC85C9</DeviceId>
+            <DeviceTypeCd>1</DeviceTypeCd>
+            <UserAgentTxt>Ó</UserAgentTxt>
+            <BrowserLanguageTxt>é</BrowserLanguageTxt>
+            <PlatformTxt>ÍÚü</PlatformTxt>
+            <TimeZoneOffsetNum>+078</TimeZoneOffsetNum>
+            <SystemTs>2021-12-07T18:19:16</SystemTs>
+        </AtSubmissionFilingGrp>
+        <FederalOriginalSubmissionId>2296100343919w5h5eu1</FederalOriginalSubmissionId>
+        <FederalOriginalSubmissionIdDt>2021-02-01</FederalOriginalSubmissionIdDt>
+        <FilingLicenseTypeCd>O</FilingLicenseTypeCd>
+        <TotalPreparationSubmissionTs>102211</TotalPreparationSubmissionTs>
+        <TotActiveTimePrepSubmissionTs>99371</TotActiveTimePrepSubmissionTs>
+        <AuthenticationReviewCd>3</AuthenticationReviewCd>
+        <AuthenticationReviewCd>4</AuthenticationReviewCd>
+        <VendorControlNum></VendorControlNum>
+        <AuthenticationReviewTxt>éÓ</AuthenticationReviewTxt>
+        <AuthenticationReviewTxt>§ í £</AuthenticationReviewTxt>
+    </FilingSecurityInformation>
+    <Form8283PaperDocumentInd>X</Form8283PaperDocumentInd>
+    <Form8858PaperDocumentInd>X</Form8858PaperDocumentInd>
+    <Form8332PaperDocumentInd>X</Form8332PaperDocumentInd>
+    <Form3468PaperDocumentInd>X</Form3468PaperDocumentInd>
+    <Form3115PaperDocumentInd>X</Form3115PaperDocumentInd>
+    <Form5713PaperDocumentInd>X</Form5713PaperDocumentInd>
+    <Form1098CPaperDocumentInd>X</Form1098CPaperDocumentInd>
+    <Form8885PaperDocumentInd>X</Form8885PaperDocumentInd>
+    <Form8864PaperDocumentInd>X</Form8864PaperDocumentInd>
+    <Form4136PaperDocumentInd>X</Form4136PaperDocumentInd>
+    <POAPaperDocumentInd>X</POAPaperDocumentInd>
+    <Form8949PaperDocumentInd>X</Form8949PaperDocumentInd>
+</ReturnHeader>

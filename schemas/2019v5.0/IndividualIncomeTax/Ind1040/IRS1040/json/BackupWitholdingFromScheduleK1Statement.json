@@ -1,0 +1,50 @@
+{
+  "BackupWhSchedulesK1Statement": {
+    "xmlns": "http://www.irs.gov/efile",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "documentId": "F9MnDy07",
+    "softwareId": "59300538",
+    "softwareVersionNum": "×",
+    "documentName": "BackupWithholdingFromSchedulesK1Statement",
+     "BackupWhSchedulesK1StmtGrp": [
+        {
+           "EIN": "979184319",
+           "BusinessName": {
+              "BusinessNameLine1Txt": "- &&&",
+              "BusinessNameLine2Txt": "&"
+           },
+           "InCareOfNm": "% '",
+           "ForeignAddress": {
+              "AddressLine1Txt": "L 5q",
+              "AddressLine2Txt": "6",
+              "CityNm": "zbXm",
+              "ProvinceOrStateNm": "ú",
+              "CountryCd": "HU",
+              "ForeignPostalCd": "í"
+           },
+           "SchK1CreditsCd": "ü",
+           "Amt": "-1117139964",
+           "Desc": "Ó"
+        },
+        {
+           "MissingEINReasonCd": "FOREIGNUS",
+           "BusinessName": {
+              "BusinessNameLine1Txt": "'",
+              "BusinessNameLine2Txt": "E"
+           },
+           "InCareOfNm": "% #",
+           "USAddress": {
+              "AddressLine1Txt": "4C-",
+              "AddressLine2Txt": "n",
+              "CityNm": "awX U",
+              "StateAbbreviationCd": "DC",
+              "ZIPCd": "41590"
+           },
+           "SchK1CreditsCd": "Invalid",
+           "Amt": "-2124934446",
+           "Desc": "Ü"
+        }
+     ],
+     "TotalAmt": "1804601105"
+  }
+}
